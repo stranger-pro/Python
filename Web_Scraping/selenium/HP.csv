@@ -1,0 +1,981 @@
+Name,Price,Rating,Proccesor,Core,Thread,RAM(GB),Storage,Graphic_card,Display,Pixel,OS
+HP Victus 15-fb3012AX Gaming Laptop,66240,72.0,8th Gen AMD Ryzen 5 8645HS,Hexa Core,12,16,512GB,6GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 16-r1705TX Gaming Laptop,66240,72.0,14th Gen Intel Core i5 14450HX,10 Cores (6P + 4E),16,16,512GB,6GB NVIDIA GeForce RTX 3050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 245 G10 Laptop,66240,55.0,7th Gen AMD Ryzen 5 7520U,Quad Core,8,8 ,512GB,AMD Radeon Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP 15-fr0028TU Laptop,66240,53.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,Intel Integrated Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb3004AX Gaming Laptop,66240,70.0,8th Gen AMD Ryzen 5 8645HS,Hexa Core,12,16,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa2191TX Gaming Laptop,66240,63.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,4GB NVIDIA GeForce RTX 3050A,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0569TU Laptop,66240,55.0,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-wf1096TX Gaming Laptop,66240,79.0,14th Gen Intel Core i7 14650HX,16 Cores (8P + 8E),24,16,1TB,8GB NVIDIA GeForce RTX 4060,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb3025AX Gaming Laptop,66240,77.0,8th Gen AMD Ryzen 9 8945HS,Octa Core,16,16,1TB,8GB NVIDIA GeForce RTX 4060,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb3125AX Gaming Laptop,66240,56.0,7th Gen AMD Ryzen 7 7445H,Hexa Core,12,16,512GB,NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion Plus ‎16-ab0015TX Laptop,66240,69.0,13th Gen Intel Core i5 13500H,12 Cores (4P + 8E),16,16,512GB,6GB NVIDIA GeForce RTX 3050,16 inches, 2560 x 1600 pixels,Windows 11 OS
+HP Omen 16-xf0060AX Gaming Laptop,66240,78.0,7th Gen AMD Ryzen 7 7840HS,Octa Core,16,16,1TB,8GB NVIDIA GeForce RTX 4060,16 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb3118AX Gaming Laptop,66240,64.0,7th Gen AMD Ryzen 7 7445H,Octa Core,16,16,512GB,6GB NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP ‎15-fd0467TU Laptop,66240,57.0,13th Gen Intel Core i5 1334U,10 Cores (2P + 8E),12,16,512GB,‎Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fc1004AU Laptop,66240,61.0,7th Gen AMD Ryzen 5 7535HS,Hexa Core,12,8 ,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-xd0015AX Gaming Laptop,66240,75.0,7th Gen AMD Ryzen 7 7840HS,Octa Core,16,16,1TB,6GB NVIDIA GeForce RTX 4050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-ae0002TX Gaming Laptop,66240,75.0,14th Gen Intel Core i7 14650HX,16 Cores (8P + 8E),24,16,1TB,8GB NVIDIA GeForce RTX 4060,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-am0241TX Gaming Laptop,66240,78.0,14th Gen Intel Core i7 14650HX,16 Cores (8P + 8E),24,24,1TB,8GB NVIDIA GeForce RTX 5050,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Victus 16-r1706TX Gaming Laptop,66240,72.0,14th Gen Intel Core i5 14450HX,10 Cores (6P + 4E),16,16,512GB,6GB NVIDIA GeForce RTX 4050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP OmniBook 5 Next Gen AI 14-he0014QU Laptop,66240,51.0,Qualcomm Snapdragon X X1-26-100,Octa Core</li,,16,512GB,Qualcomm Adreno GPU,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP 15-fc0389AU Laptop,66240,57.0,7th Gen AMD Ryzen 5 7530U,Hexa Core,12,16,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb0185AX Gaming Laptop,66240,68.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,8 ,512GB,4GB AMD Radeon RX 6500M,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0574TU Laptop,66240,55.0,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,16,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 255 G10 Laptop,66240,50.0,7th Gen AMD Ryzen 5 7520U,Quad Core,8,8 ,512GB,AMD Radeon Graphics,15.6 inches, 1366 x 768 pixels,Windows 11 OS
+HP Victus 15-fb3009AX Gaming Laptop,66240,72.0,8th Gen AMD Ryzen 5 8645HS,Hexa Core,12,16,512GB,6GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP ‎15-fd0465TU Laptop,66240,53.0,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,8 ,512GB,‎Intel UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 16-wf1150TX Gaming Laptop,66240,79.0,14th Gen Intel Core i7 14650HX,16 Cores (8P + 8E),24,16,1TB,8GB NVIDIA GeForce RTX 4060,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fc0154AU Laptop,66240,55.0,7th Gen AMD Ryzen 3 7320U,Quad Core,8,8 ,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14-gr1028TU Laptop,66240,61.0,Intel Core Ultra 7 155H,16 Cores (6P + 8E + 2LP-E),22,16,512GB,Intel Integrated Intel Arc,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-FD0582TU Laptop,66240,53.0,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fc0476AU Laptop,66240,59.0,5th Gen AMD Ryzen 7 5825U,Octa Core,16,16,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd1255TU Laptop,66240,59.0,Intel Core Ultra 5 Series 1 125H,14 Cores (4P + 8E + 2LP-E),18,16,1TB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fc0156AU Laptop,66240,59.0,7th Gen AMD Ryzen 5 7520U,Quad Core,8,16,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-xd0020AX Gaming Laptop,66240,77.0,7th Gen AMD Ryzen 7 7840HS,Octa Core,16,16,1TB,8GB NVIDIA GeForce RTX 4060,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1319TX Gaming Laptop,66240,61.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,6GB NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus15-fb0147AX Gaming Laptop,66240,57.0,5th Gen AMD Ryzen 5  5600H,Hexa Core,12,8 ,512GB,4GB AMD Radeon AMD Radeon RX 6500M,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 255 G9 7B1L8PA Laptop,66240,60.0,5th Gen AMD Ryzen 5 5625U,Hexa Core,12,8 ,512GB,AMD Radeon Graphics,15.6 inches, 1366 x 768 pixels,Windows 11 OS
+HP 15-fr0049TU Laptop,66240,54.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0664TU Laptop,66240,,Intel Core 5 Processor Series 1 120U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0691TU Laptop,66240,53.0,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,12,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16 Max 16-ah0189TX Gaming Laptop,66240,,Intel Core Ultra 9 275HX,24 Cores (8P + 16E),24,64,1TB,24GB NVIDIA GeForce RTX 5090,16 inches, 2560 x 1600 pixels,Windows 11 OS
+HP 15-fr0025TU Laptop,66240,55.0,13th Gen Intel Core i7 13620H,10 Cores (6P + 4E),16,16,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa2309TX Gaming Laptop,66240,70.0,13th Gen Intel Core i7 13620H,10 Cores (6P + 4E),16,24,1TB,8GB NVIDIA GeForce RTX 5050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP OmniBook 5 Next Gen AI 14-he0015QU Laptop,66240,52.0,Qualcomm Snapdragon X X1-26-100,Octa Core</li,,16,1TB,Qualcomm Adreno GPU,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP 15-hr1000TU Laptop,66240,55.0,Intel Core Ultra 5 Series 1 125H,14 Cores (4P + 8E + 2LP-E),18,16,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fc1039AU Laptop,66240,60.0,7th Gen AMD Ryzen 5 7535HS,Hexa Core,12,16,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0490TU Laptop,66240,53.0,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-hr0007TU Laptop,66240,52.0,13th Gen Intel Core i5 1334U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 250 G10 ‎BJ3R8AT Laptop,66240,52.0,13th Gen Intel Core i5 1334U,10 Cores (2P + 8E),12,32,512GB,Intel Integrated UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0575TU Laptop,66240,51.0,13th Gen Intel Core i5 1334U,10 Cores (2P + 8E),12,12,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14-gr0002TU Laptop,66240,54.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa2701TX Gaming Laptop,66240,65.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,6GB NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP OmniBook X Flip 14-fm0058TU Next Gen AI PC Laptop,66240,71.0,Intel Core Ultra 5 226V,Octa Core (4P + 4LP-E),8,16,512GB,Intel Arc Graphics,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP 255 G10 ‎‎B69V0PT#ACJ Laptop,66240,,AMD Athlon 7120U,8 GB  RAM</li,,25,AMD,"15.6inches, 1366x768pixels",Windows 11 OS,,
+HP Pavilion x360 14-ek1152TU Laptop,66240,66.0,13th Gen Intel Core i7 1355U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated Iris Xe,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb3003AX Gaming Laptop,66240,70.0,8th Gen AMD Ryzen 5 8645HS,Hexa Core,12,16,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa2700TX  Gaming Laptop,66240,62.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,6GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa2703TX Gaming Laptop,66240,61.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 255 G10 B1FW9PT Laptop,66240,,7th Gen AMD Ryzen 3 7320U,Quad Core,8,8 ,512GB,AMD Radeon Graphics,15.6 inches, 1366 x 768 pixels,Windows 11 OS
+HP Victus 15-FA1411TX Gaming Laptop,66240,66.0,12th Gen Intel Core i7 12650H,10 Cores (6P + 4E),16,16,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 16 AI 16-ag0019AU Laptop,66240,62.0,8th Gen AMD Ryzen 5 8540U,Hexa Core,12,16,512GB,AMD Radeon AMD,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Victus 15-fa1388TX Gaming Laptop,66240,62.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,16,1TB,4GB NVIDIA GeForce RTX 3050A,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fc0155AU Laptop,66240,56.0,7th Gen AMD Ryzen 5 7520U,Quad Core,8,8 ,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb2114AX Gaming Laptop,66240,73.0,8th Gen AMD Ryzen 7 8845HS,Octa Core,16,16,512GB,6GB NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb2117AX Gaming Laptop,66240,74.0,8th Gen AMD Ryzen 7 8845HS,Octa Core,16,16,1TB,6GB NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Chromebook 11MK G9 EE Laptop,66240,,MediaTek Kompanio 500 500,Octa Core</li,,4 ,32GB,Arm Mali-G72 MP3,11.6 inches, 1366 x 768 pixels,Chrome OS
+HP 15-fd1098TU Laptop,66240,54.0,Intel Core Ultra 5 Series 1 125H,14 Cores (4P + 8E + 2LP-E),18,8 ,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-wf0179TX Gaming Laptop,66240,71.0,13th Gen Intel Core i7 13700HX,16 Cores (8P + 8E),24,16,512GB,6GB NVIDIA GeForce RTX 3050,16.1 inches, 2560 x 1440 pixels,Windows 11 OS
+HP Omen 16-xf0081AX Gaming Laptop,66240,,7th Gen AMD Ryzen 7 7840HS,Octa Core,16,32,1TB,8GB NVIDIA GeForce RTX 4060,16 inches, 1440 x 2560 pixels,Windows 11 OS
+HP Omen 16-wf1025TX Gaming Laptop,66240,79.0,14th Gen Intel Core i7 14700HX,20 Cores (8P + 12E),28,16,1TB,8GB NVIDIA GeForce RTX 4060,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-XD0007ax Gaming Laptop,66240,72.0,7th Gen AMD Ryzen 7 7840HS,Octa Core,16,16,1TB,6GB NVIDIA GeForce RTX 4050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb0147AX Gaming Laptop,66240,68.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,8 ,512GB,4GB AMD Radeon RX 6500M,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-wd0880TX Gaming Laptop,66240,64.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,6GB NVIDIA GeForce RTX 4050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 15-EH3101AU Laptop,66240,63.0,7th Gen AMD Ryzen 7 7730U,Octa Core,16,16,512GB,AMD Radeon Vega 8 Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion x360 14-ek1010TU Laptop,66240,65.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,1TB,Intel Integrated Iris Xe,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-du3614TU Laptop,66240,61.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,1TB,256GB SSD,Intel Integrated UHD,,"15.6 inches, 1920 x 1080 pixels"
+HP 255 G8 62Y30PA Laptop,66240,50.0,5th Gen AMD Ryzen 5  5500U,Hexa Core,12,8 ,512GB,AMD Radeon Vega 8,15.6 inches, 1366 x 768 pixels,Windows 11  OS
+HP Victus 15-fb3123AX  Gaming Laptop,66240,64.0,7th Gen AMD Ryzen 7 7445H,Octa Core,16,16,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb3122AX Gaming Laptop,66240,61.0,7th Gen AMD Ryzen 7 7445H,Octa Core,16,16,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0549TU Laptop,66240,53.0,13th Gen Intel Core i5 1334U,10 Cores (2P + 8E),12,8 ,1TB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14-em0243AU Laptop,66240,50.0,7th Gen AMD Ryzen 3 7320U,Quad Core,8,8 ,512GB,AMD Radeon AMD,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 16-FD0640TU Laptop,66240,55.0,Intel Core 5 Processor Series 1 120U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb3124AX  Gaming Laptop,66240,61.0,7th Gen AMD Ryzen 7 7445H,Hexa Core,12,16,512GB,6GB NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa2192TX  Gaming Laptop,66240,61.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb3130AX Gaming Laptop,66240,66.0,7th Gen AMD Ryzen 7 7445H,Octa Core,16,16,512GB,6GB NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-ap0165AX Gaming Laptop,66240,70.0,AMD Ryzen AI 7 350,Octa Core,16,16,1TB,8GB NVIDIA GeForce RTX 5050,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Victus 16-r1707TX Gaming Laptop,66240,71.0,14th Gen Intel Core i5 14450HX,10 Cores (6P + 4E),16,16,512GB,6GB NVIDIA GeForce RTX 3050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 16-af0069TU Laptop,66240,57.0,Intel Core Ultra 5 125U,12 Cores (2P + 8E + 2LP-E),14,16,1TB,Intel Integrated Graphics,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Victus 15-fb3185AX Gaming Laptop,66240,70.0,AMD Ryzen 7 260,Octa Core,16,24,1TB,8GB NVIDIA GeForce RTX 5050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Spectre x360 14-eu0670TU Laptop,66240,73.0,Intel Core Ultra 7 Series 1 155H,16 Cores (6P + 8E + 2LP-E),22,32,1TB,Intel Arc Graphics,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP 14s-dq3141TU Laptop,66240,,Intel Celeron N4500,Dual Core,2,8 ,512GB,Intel Integrated UHD Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP Victus 15-fb3134AX Gaming Laptop,66240,62.0,7th Gen AMD Ryzen 7 7445H,Octa Core,16,16,512GB,NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16 Max 16-ah0190TX Gaming AI Laptop,66240,,Intel Core Ultra 9 275HX,24 Cores (8P + 16E),24,32,1TB,12GB NVIDIA GeForce RTX 5070 Ti,16 inches, 2560 x 1600 pixels,Windows 11 OS
+HP ProBook 635 Aero G8 4Q1T0PA Laptop,66240,54.0,5th Gen AMD Ryzen 5 5600U,Hexa Core,12,16,512GB,AMD Radeon Graphics,13.3 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15-fd0568TU Laptop,66240,55.0,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fc0533AU Laptop,66240,55.0,5th Gen AMD Ryzen 7 5825U,Octa Core,16,16,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP OmniBook 3 15-fn0007AU AI Laptop,66240,,AMD Ryzen AI 5 340,Hexa Core,12,16,512GB,AMD Radeon,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP OmniBook 3 14-ha0000AU Laptop,66240,,AMD Ryzen AI 5 340,Hexa Core,12,16,512GB,AMD Radeon,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa2190TX Gaming Laptop,66240,61.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0588TU Laptop,66240,56.0,13th Gen Intel Core i5 1334U,10 Cores (2P + 8E),12,16,1TB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0588TU Laptop,66240,56.0,13th Gen Intel Core i5 1334U,10 Cores (2P + 8E),12,16,1TB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP OmniBook 7 Aero 13-bg1456AU Next Gen AI Laptop,66240,,AMD Ryzen AI 7 AI 7 350,16 GB LPDDR5X RAM</li,,51,AMD,"13.3inches, 2560x1600pixels",Windows 11 OS,,
+HP 15-fc0390AU Laptop,66240,59.0,7th Gen AMD Ryzen 7 7730U,Octa Core,16,16,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0515TU Laptop,66240,56.0,13th Gen Intel Core i7 1355U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-hr0008TU Laptop,66240,52.0,13th Gen Intel Core i5 1334U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14-ep0341TU Laptop,66240,50.0,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,8 ,512GB,Intel UHD Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP OmniBook 5 16-ba1123TU Laptop,66240,53.0,13th Gen Intel Core i5 1334U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Victus 15-fa2077TX Gaming Laptop,66240,65.0,13th Gen Intel Core i7 13620H,10 Cores (6P + 4E),16,16,512GB,6GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14-ep0294TU Laptop,66240,50.0,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,8 ,512GB,Intel UHD Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0489TU Laptop,66240,,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb0184AXGaming Laptop,66240,64.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,8 ,512GB,4GB AMD Radeon RX 6500M Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 240 G10 ‎‎BE5S0PT Laptop,66240,,13th Gen Intel Core i5 1334U,10 Cores (2P + 8E),12,16,1TB,Intel UHD Graphics,14 inches, 1920 x 1080 pixels,Windows OS
+HP Envy x360 14-fc0124TU Laptop,66240,56.0,Intel Core Ultra 7 155U,12 Cores (2P + 8E + 2LP-E),14,16,512GB,Integrated Intel Graphics,14 inches, Touch Screen,Windows 11 OS
+HP 15-fd0577TU Laptop,66240,57.0,13th Gen Intel Core i5 1334U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0573TU Laptop,66240,54.0,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,12,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd1253TU Laptop,66240,,Intel Core 3 100U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP OmniBook 5 16-ba1008TU Laptop,66240,53.0,13th Gen Intel Core i5 1334U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Omen 16-wf0262TX Gaming Laptop,66240,74.0,13th Gen Intel Core i7 13700HX,16 Cores (8P + 8E),24,16,1TB,8GB NVIDIA GeForce RTX 4070,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb3011AX Gaming Laptop,66240,68.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,16,512GB,6GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP OmniBook 7 Aero 13-bg1678AU Next Gen AI  Laptop,66240,56.0,AMD Ryzen AI 5 340,Hexa Core,12,16,512GB,AMD Radeon 840M Graphics,13.3 inches, 2560 x 1600 pixels,Windows 11 OS
+HP OmniBook X Flip 14-fm0029TU Next Gen AI Laptop,66240,74.0,Intel Core Ultra 7 Series 2 258V,Octa Core (4P + 4E),8,32,1TB,Intel Arc Graphics,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP OmniBook X Flip 14-fm0026TU Next Gen AI PC Laptop,66240,70.0,Intel Core Ultra 7 Series 2 256V,Octa Core (4P + 4LP-E),8,16,512GB,Intel Arc Graphics,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP Omen 16 Max 16-ah0076TX Gaming Laptop,66240,,Intel Core Ultra 9 275HX,24 Cores (8P + 16E),24,32,1TB,16GB NVIDIA GeForce RTX 5080,16 inches, 2560 x 1600 pixels,Windows 11 OS
+HP OmniBook 5 Next Gen AI 16-ag1037au Laptop,66240,53.0,AMD Ryzen AI 5 340,Hexa Core,12,16,512GB,AMD Radeon 860M Graphics,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP OmniBook 5 Next Gen AI 16-ag1048AU Laptop,66240,54.0,AMD Ryzen AI 7 350,Octa Core,16,16,512GB,AMD Radeon 860M Graphics,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP 255 G10 ‎B21E0PT#ACJ Laptop,66240,,AMD Athlon 7120U,8 GB  RAM</li,,25,AMD,"15.6inches, 1366x768pixels",DOS OS,,
+HP 250 G10 ‎B10M3AT Laptop,66240,50.0,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,16,512GB,Intel Integrated UHD Graphics,15.6 inches, 1366 x 768 pixels,DOS OS
+HP 14-em0214AU Laptop,66240,54.0,7th Gen AMD Ryzen 5 7530U,Hexa Core,12,16,512GB,AMD Radeon AMD,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 245 G10 B0WM3PT Laptop,66240,52.0,7th Gen AMD Ryzen 5 7520U,Quad Core,8,8 ,512GB,AMD Radeon Graphics,14 inches, 1366 x 768 pixels,DOS OS
+HP Pavilion x360 14-ek1149TU Laptop,66240,61.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,1TB,Intel Integrated Iris Xe,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb2703tx Gaming Laptop,66240,63.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 250R G9 B10MTA#ACJ Laptop,66240,55.0,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,16,512GB,Intel Integrated UHD Graphics,15.6 inches, 1366 x 768 pixels,Windows OS
+HP Victus 15-FA1414TX Gaming Laptop,66240,65.0,12th Gen Intel Core i7 12650H,10 Cores (6P + 4E),16,16,1TB,4GB NVIDIA GeForce RTX 3050A,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 255 G9 9H237PT Laptop,66240,,3rd Gen AMD Ryzen 3 3250U,Dual Core,4,8 ,512GB,AMD Radeon Graphics,15.6 inches, 1366 x 768 pixels,DOS OS
+HP Pavilion x360 14-ek1148TU Laptop,66240,60.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated Iris Xe,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion Plus 14-ew0108TU Laptop,66240,59.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Pavilion AI 14-ew1112TU Laptop,66240,64.0,Intel Core Ultra 5 Series 1 125H,14 Cores (4P + 8E + 2LP-E),18,16,512GB,Intel Graphics,14 inches, 2560 x 1600 pixels,Windows 11 OS
+HP 15-fd0466tu Laptop,66240,52.0,13th Gen Intel Core i5 1334U,10 Cores (2P + 8E),12,8 ,512GB,‎Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0492TU Laptop,66240,55.0,13th Gen Intel Core i5 1334U,10 Cores (2P + 8E),12,16,512GB,‎Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP ‎15-fd0468TULaptop,66240,59.0,13th Gen Intel Core i7 1355U,10 Cores (2P + 8E),12,16,512GB,‎Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus FA1198TX Gaming Laptop,66240,63.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,6GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP B12V5PT Laptop,66240,53.0,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,16,512GB,Intel Integrated Graphics,15.6 inches, 1366 x 768 pixels,Windows 11 OS
+HP 255 G10 B15J0PT Laptop,66240,,7th Gen AMD Ryzen 5 7520U,Quad Core,8,8 ,512GB,AMD Radeon Graphics,15.6 inches, 1366 x 768 pixels,DOS OS
+HP ZBook Firefly 16 G11 A1VX6PT Laptop,66240,72.0,Intel Core Ultra 7 Series 1 155H,16 Cores (6P + 8E + 2LP-E),22,16,1TB,4GB NVIDIA RTX A500,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook Firefly 16 G11 A1VX4PT Laptop,66240,77.0,Intel Core Ultra 7 Series 1 155H,16 Cores (6P + 8E + 2LP-E),22,32,1TB,4GB NVIDIA RTX A500,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP OmniBook Ultra Flip Next Gen AI 14-fh0026TU Laptop,66240,71.0,Intel Core Ultra 7 Series 2 258V,Octa Core (4P + 4E),8,16,1TB,Intel Arc Graphics,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP OmniBook Ultra Flip Next Gen AI 14-fh0029TU Laptop,66240,74.0,Intel Core Ultra 7 Series 2 258V,Octa Core (4P + 4E),8,32,1TB,Intel Arc Graphics,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP ZBook Firefly 14 G11 A1VL0PT Laptop,66240,73.0,Intel Core Ultra 7 Series 1 155H,16 Cores (6P + 8E + 2LP-E),22,16,1TB,4GB NVIDIA RTX A500,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ProBook 440 G9 821P0PA Laptop,66240,59.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,DOS OS
+HP 240R G9 Laptop,66240,,12th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,16,512GB,Intel Integrated Graphics,14 inches, 1366 x 720 pixels,Windows 11 OS
+HP 245 G10 Laptop,66240,50.0,7th Gen AMD Ryzen 5 7530U,Hexa Core,12,8 ,512GB,AMD Radeon Graphics,14 inches, 1366 x 768 pixels,Windows OS
+HP 240R G9 Laptop,66240,,12th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,16,512GB,Intel Integrated Graphics,14 inches, 1366 x 720 pixels,Windows 11 OS
+HP Omen 16-wf1171TX Gaming Laptop,66240,78.0,14th Gen Intel Core i7 14650HX,16 Cores (8P + 8E),24,16,1TB,6GB NVIDIA GeForce RTX 4050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP OmniBook X 14-fe1011QU AI Laptop,66240,50.0,Qualcomm Snapdragon X Plus X1P-42-100,Octa Core</li,,16,512GB,Qualcomm Adreno GPU,14 inches, 2240 x 1400 pixels,Windows 11 OS
+HP OmniBook Ultra Flip AI 2 in 1 Laptop,66240,73.0,Intel Core Ultra 9 288V,Octa Core (4P + 4LP-E),8,32,2TB,Intel Arc Graphics 140V,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP ZBook Firefly 14 G11 A92TYPT Laptop,66240,64.0,Intel Core Ultra 5 Processor 125U,12 Cores (2P + 8E + 2LP-E),14,16,512GB,Intel Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP 240 14 G9 9H223PT Laptop,66240,51.0,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,512GB,Intel UHD Graphics,14 inches, 1366 x 768 pixels,DOS OS
+HP Victus 15-FA1402TX Gaming Laptop,66240,69.0,12th Gen Intel Core i7 12650H,10 Cores (6P + 4E),16,16,1TB,4GB NVIDIA GeForce RTX 3050A,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 16-af0056TU Laptop,66240,54.0,Intel Core Ultra 5 125U,12 Cores (2P + 8E + 2LP-E),14,16,1TB,Intel Integrated Graphics,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP 15-fd0061TU Laptop,66240,,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0070TU Laptop,66240,51.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,512GB,Intel Integrated Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1278TX Gaming Laptop,66240,60.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,6GB NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0111TU Laptop,66240,56.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated Iris Xe,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0129TU Laptop,66240,55.0,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus Special Edition 15-fa1379TX Gaming Laptop,66240,59.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,16,512GB,4GB NVIDIA GeForce RTX 3050A,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14-gr0001TU Laptop,66240,54.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP OmniBook X 14-fe0121QU AI Laptop,66240,56.0,Qualcomm Snapdragon X Elite X1E-78-100,12 Cores</li,,16,1TB,Qualcomm Adreno GPU,14 inches, 2240 x 1400 pixels,Windows 11 OS
+HP Victus Special Edition 15-fa1382TX Gaming Laptop,66240,61.0,12th Gen Intel Core i7 12650H,10 Cores (6P + 4E),16,16,512GB,4GB NVIDIA GeForce RTX 3050A,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus Special Edition 15-fa1389TX Gaming Laptop,66240,65.0,12th Gen Intel Core i7 12650H,10 Cores (6P + 4E),16,16,1TB,4GB NVIDIA GeForce RTX 3050A,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa0333TX Gaming Laptop,66240,59.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,16,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14-gr1023TU Laptop,66240,64.0,Intel Core Ultra 7 155H,16 Cores (6P + 8E + 2LP-E),22,16,512GB,Intel Integrated Intel Arc,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Chromebook 14a-nf0017tu Laptop,66240,,Intel Core i3 N305,Octa Core,8,8 ,256GB,Intel Integrated UHD,14 inches, 1080 x 1920 pixels,Chrome OS
+HP Chromebook x360 14b-cd0012TU Laptop,66240,,Intel N200 N200,Quad Core,4,8 ,128GB,Intel Integrated UHD,14 inches, 1366 x 768 pixels,Chrome OS OS
+HP Chromebook 14a-nf0014tu Laptop,66240,,Intel N100 N100,Quad Core,4,4 ,64GB,Intel Integrated UHD,14 inches, 1366 x 768 pixels,Chrome OS
+HP 15-fd0316TU Laptop,66240,57.0,13th Gen Intel Core i5 1334U,10 Cores (2P + 8E),12,16,512GB,‎Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fy5011TU Laptop,66240,53.0,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,512GB,Intel UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Spectre x360 16-aa0015TU Laptop,66240,74.0,Intel Core Ultra 7 Series 1 155H,16 Cores (6P + 8E + 2LP-E),22,16,1TB,Intel Arc Graphics,16 inches, 2560 x 1600 pixels,Windows 11 OS
+HP Pavilion Plus 14-ew1082TU Laptop,66240,62.0,Intel Core Ultra 5 Series 1 125H,14 Cores (4P + 8E + 2LP-E),18,16,512GB,Intel Graphics,14 inches, 2560 x 1600 pixels,Windows 11 OS
+HP 15s-fy5009TU Laptop,66240,60.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-wd0011tx Gaming Laptop,66240,70.0,13th Gen Intel Core i7 13620H,10 Cores (6P + 4E),16,16,1TB,6GB NVIDIA GeForce RTX 4050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14-ew1074TU Laptop,66240,61.0,Intel Core Ultra 5 Series 1 125H,14 Cores (4P + 8E + 2LP-E),18,16,512GB,Intel Arc Graphics,14 inches, 2560 x 1600 pixels,Windows 11 OS
+HP Omen 16-wf0148TX Gaming Laptop,66240,77.0,13th Gen Intel Core i9 13900HX,24 Cores (8P + 16E),32,16,1TB,8GB NVIDIA GeForce RTX 4060,16.1 inches, 2560 x 1440 pixels,Windows 11 OS
+HP Victus 15-FA1279TX Gaming Laptop,66240,60.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,6GB NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-wd0012TX Gaming Laptop,66240,72.0,13th Gen Intel Core i7 13620H,10 Cores (6P + 4E),16,16,1TB,8GB NVIDIA GeForce RTX 4060,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1227TX Gaming Laptop,66240,61.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,16,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1226TX Gaming Laptop,66240,64.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,8 ,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1327TX Gaming Laptop,66240,63.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,6GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0186TU Laptop,66240,53.0,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-xf0100AX Gaming Laptop,66240,77.0,7th Gen AMD Ryzen 9 7940HS,Octa Core,16,16,1TB,8GB NVIDIA GeForce RTX 4070,16 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 16-af0028TU Laptop,66240,56.0,Intel Core Ultra 7 155U,12 Cores (2P + 8E + 2LP-E),14,16,512GB,Intel Integrated,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP 15-fd1100TU Laptop,66240,54.0,Intel Core 7 Processor Series 1 150U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd1095TU Laptop,66240,50.0,Intel Core 3 Processor Series 1 100U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1307TX Gaming Laptop,66240,60.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,1TB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 16-af0015TU Laptop,66240,52.0,Intel Core Ultra 5 Processor 125U,12 Cores (2P + 8E + 2LP-E),14,16,512GB,Intel Integrated,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Pavilion 15-eh3036AU Laptop,66240,60.0,7th Gen AMD Ryzen 5 7530U,Hexa Core,12,8 ,512GB,AMD Radeon Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Chromebook 11MK G9 EE Touch Laptop,66240,,MediaTek Kompanio 500,Octa Core</li,,4 ,32GB,Arm Mali-G72 MP3,11.6 inches, 1366 x 768 pixels,Chrome OS
+HP 250 G9 8Y2Y9PA Laptop,66240,,Intel Celeron N4500,Dual Core,2,8 ,256GB,Intel Integrated,15.6 inches, 1366 x 768 pixels,DOS OS
+HP 250 G9 6S798EA Laptop,66240,,Intel Celeron N4500,Dual Core,2,8 ,256GB,Intel Integrated,15.6 inches, 1366 x 768 pixels,Windows 11 OS
+HP 15-fd1099TU Laptop,66240,56.0,Intel Core Ultra 5 Series 1 125H,14 Cores (4P + 8E + 2LP-E),18,16,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Chromebook 15a-nb0006TU Laptop,66240,,Intel Core i3 N305,8 Threads</li,,8 ,256GB,Intel Integrated UHD Graphics,15.6 inches, 1366 x 768 pixels,Chrome OS
+HP Envy x360 14-fa0038AU Laptop,66240,68.0,8th Gen AMD Ryzen 5 8640HS,Hexa Core,12,16,512GB,AMD Radeon Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Envy x360 ‎14-fc0100TU Laptop,66240,73.0,Intel Core Ultra 7 155U,12 Cores (2P + 8E + 2LP-E),14,32,1TB,Integrated Intel Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Envy x360 14-fc0105TU Laptop,66240,65.0,Intel Core Ultra 5 125U,12 Cores (2P + 8E + 2LP-E),14,16,512GB,Integrated Intel Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Spectre x360 14-ef2035TU Laptop,66240,72.0,13th Gen Intel Core i7 1355U,10 Cores (2P + 8E),12,32,1TB,Intel Iris Xe Graphics,13.5 inches, 3000 x 2000 pixels,Windows 11 OS
+HP Envy x360 15-fe0011TX Laptop,66240,68.0,13th Gen Intel Core i7 1355U,10 Cores (2P + 8E),12,16,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 15-eh1147AU Laptop,66240,63.0,5th Gen AMD Ryzen 7 5700U,Octa Core,16,16,1TB,AMD Radeon Radeon,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0221TU Laptop,66240,52.0,13th Gen Intel Core i5 1334U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fq5330TU Laptop,66240,56.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated Iris Xe,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 15-eh1047AU Laptop,66240,62.0,5th Gen AMD Ryzen 5 5500U,Hexa Core,12,16,1TB,AMD Radeon Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-xd0010AX Gaming Laptop,66240,75.0,7th Gen AMD Ryzen 7 7840HS,Octa Core,16,16,1TB,6GB NVIDIA GeForce RTX 4050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-wf1026TX Gaming Laptop,66240,,14th Gen Intel Core i7 14700HX,20 Cores (8P + 12E),28,16,1TB,8GB NVIDIA GeForce RTX 4070,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Spectre x360 14-eu0556TU Laptop,66240,75.0,Intel Core Ultra 7 Series 1 155H,16 Cores (6P + 8E + 2LP-E),22,32,1TB,Intel Arc Graphics,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP Spectre x360 16-aa0665TU Laptop,66240,,Intel Core Ultra 7 Series 1 155H,16 Cores (6P + 8E + 2LP-E),22,32,2TB,Intel Arc Graphics,16 inches, 2880 x 1800 pixels,Windows 11 OS
+HP 15s-EQ2084AU Laptop,66240,57.0,5th Gen AMD Ryzen 7  5700U,Octa Core,16,16,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1145TX Gaming Laptop,66240,68.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,16,1TB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Spectre x360 14-ef2036TU Laptop,66240,66.0,13th Gen Intel Core i7 1355U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,13.5 inches, 3000 x 2000 pixels,Windows 11 OS
+HP Victus 15-fa1134TX Laptop,66240,73.0,12th Gen Intel Core i7 12650H,10 Cores (6P + 4E),16,16,512GB,6GB NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 240 G8 689U4PA Business Laptop,66240,60.0,11th Gen Intel Core i5 1135G7,Quad Core,8,8 ,512GB,Intel Iris Xe Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP Victus 15-fb0157AX Gaming Laptop,66240,65.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,8 ,512GB,4GB AMD Radeon RX 6500M,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 17-cm2002TX Gaming Laptop,66240,75.0,13th Gen Intel Core i7 13700HX,16 Cores (8P + 8E),24,16,512GB,8GB NVIDIA GeForce RTX 4060,17.3 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fy5006TU Laptop,66240,53.0,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1132TX Laptop,66240,62.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,8 ,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Spectre 17-cs0097nr Foldable Laptop,66240,65.0,12th Gen Intel Core i7 1250U,10 Cores (2P + 8E),12,16,1TB,Intel Iris Xe Graphics,17 inches, 1920 x 2560 pixels,Windows 11 OS
+HP 15s-fq3066TU Laptop,66240,,Intel Celeron N4500,Dual Core,2,8 ,512GB,Intel Integrated UHD,15.6 inches, 1366 x 768 pixels,Windows 11 OS
+HP Victus 15-FB1001AX Gaming Laptop,66240,66.0,7th Gen AMD Ryzen 5 7535HS,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 255 G8 7J035AA Laptop,66240,52.0,5th Gen AMD Ryzen 5  5500U,Hexa Core,12,8 ,256GB,AMD Radeon ,15.6 inches, 1920 x 1080 pixels,Windows 11  OS
+HP 15s-eq2132AU Laptop,66240,60.0,5th Gen AMD Ryzen 5 5500U,Hexa Core,12,16,512GB,AMD Radeon,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 250 G9 7M659PA Laptop,66240,57.0,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated,15.6 inches, 1366 x 768 pixels,Windows 11 OS
+HP Victus 15-fa0187TX Gaming Laptop,66240,71.0,12th Gen Intel Core i7 12650H,10 Cores (6P + 4E),16,16,1TB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 15-eg3017TU Laptop,66240,59.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,1TB,Intel Integrated Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1064TX Gaming Laptop,66240,68.0,13th Gen Intel Core i7 13700H,14 Cores (6P + 8E),20,16,512GB,6GB NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus  15-fa1060TX  Gaming Laptop,66240,66.0,13th Gen Intel Core i5 13500H,12 Cores (4P + 8E),16,16,512GB,6GB NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-wf0052TX Gaming Laptop,66240,70.0,13th Gen Intel Core i5 13500HX,14 Cores (6P + 8E),20,16,512GB,6GB NVIDIA GeForce RTX 4050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-wd0770TX Gaming Laptop,66240,68.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,6GB NVIDIA GeForce RTX 4050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa0188TX Gaming Laptop,66240,70.0,12th Gen Intel Core i7 12650H,10 Cores (6P + 4E),16,16,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion x360 14-ek1074TU Laptop,66240,63.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated Iris Xe,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-wf0111TX Gaming Laptop,66240,73.0,13th Gen Intel Core i7 13700HX,16 Cores (8P + 8E),24,16,1TB,8GB NVIDIA GeForce RTX 4060,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-xf0059AX Gaming Laptop,66240,71.0,7th Gen AMD Ryzen 7 7840HS,Octa Core,16,16,512GB,8GB NVIDIA GeForce RTX 4060,16 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fr2515TU Laptop,66240,55.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,512GB,Intel UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fy5004TU Laptop,66240,52.0,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,16,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-wf0111TX Gaming Laptop,66240,73.0,13th Gen Intel Core i7 13700HX,16 Cores (8P + 8E),24,16,1TB,8GB NVIDIA GeForce RTX 4060,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-xf0059AX Gaming Laptop,66240,71.0,7th Gen AMD Ryzen 7 7840HS,Octa Core,16,16,512GB,8GB NVIDIA GeForce RTX 4060,16 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fr2515TU Laptop,66240,55.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,512GB,Intel UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fy5004TU Laptop,66240,52.0,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,16,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 255 G8 6E3Z0PA Laptop,66240,,3rd Gen AMD Ryzen 3  3250U,Dual Core,4,8 ,512GB,AMD Radeon Graphics,15.6 inches, 1366 x 768 pixels,DOS OS
+HP ZBook Studio G9 16 WUXGA Workstation Laptop,66240,78.0,12th Gen Intel Core i7 12700H ,14 Cores (6P + 8E),20,16,1TB,6GB NVIDIA GeForce RTX 3060,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook Studio G9 Workstation Laptop,66240,,12th Gen Intel Core i7 12700H ,14 Cores (6P + 8E),20,16,1TB,8GB NVIDIA GeForce RTX 3070 Ti ,16 inches, 3840 x 2400 pixels,Windows 11 OS
+HP Chromebook x360 ‎14a-ca0505TU Laptop,66240,,Intel Celeron  N4120,Quad Core,4,4 ,64GB,Intel Integrated UHD 600,14 inches, 1366 x 768 pixels,Chrome OS OS
+HP 14-em0027AU Laptop,66240,56.0,7th Gen AMD Ryzen 5 7520U,Quad Core,8,16,512GB,AMD Radeon AMD,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14-hr0000AU Laptop,66240,56.0,7th Gen AMD Ryzen 5 7520U,Quad Core,8,16,512GB,AMD Radeon AMD,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Envy 15-fe0030TU Laptop,66240,64.0,13th Gen Intel Core i7 1355U,10 Cores (2P + 8E),12,16,512GB,Intel Iris X Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+‎HP Zbook Power G4-A 2023 ZHAN 99 Laptop,66240,68.0,6th Gen AMD Ryzen 5 6600H,Hexa Core,12,16,1TB,512GB SSD,4 GB ‎NVIDIA Quadro T600,,"15.6 inches, 1920 x 1080 pixels"
+HP 15s-ey2001AU Laptop,66240,57.0,5th Gen AMD Ryzen 7   5700U,Octa Core,16,16,512GB,AMD Radeon Radeon,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14-gr0000TU Laptop,66240,52.0,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,8 ,512GB,Intel UHD Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14-em0026AU Laptop,66240,54.0,7th Gen AMD Ryzen 5 7520U,Quad Core,8,8 ,512GB,AMD Radeon AMD,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 255 G9 840T7PA Laptop,66240,,3rd Gen AMD Athlon 3050U,Dual Core,2,4 ,256GB,AMD Integrated,15.6 inches, 1366 x 768 pixels,DOS OS
+HP Pavilion 15-eg3079TU Laptop,66240,62.0,13th Gen Intel Core i5 1340p,12 Cores (4P + 8E),16,16,512GB,Intel Integrated Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+‎HP Zbook Power G4-A Laptop,66240,70.0,6th Gen AMD Ryzen 7 6800H,Octa Core,16,16,1TB,4GB ‎NVIDIA Quadro T600,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14s-dr3003TU 832T7PA Laptop,66240,,Intel Pentium Silver N6000,Quad Core,4,8 ,512GB,Intel UHD Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP Pavilion 15s-fq5190TU Laptop,66240,61.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 15-eg3081TU Laptop,66240,62.0,13th Gen Intel Core i5 1340P,12 Cores (4P + 8E),16,16,512GB,Intel Integrated Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-hr0000TU Laptop,66240,52.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,8 ,512GB,Intel Integrated Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fr4001TU Laptop,66240,60.0,11th Gen Intel Core i5 1155G7,Quad Core,8,16,512GB,Intel Integrated Iris Xe,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0021TU Laptop,66240,53.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,8 ,512GB,Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0013TU Laptop,66240,52.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP ProBook 440 G8 5D6U3PA Notebook PC,66240,63.0,11th Gen Intel Core i5 1135G7,Quad Core,8,8 ,512GB,Intel Iris Xe Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP 15-eg3036TU Laptop,66240,65.0,13th Gen Intel Core i7 1360P,12 Cores (4P + 8E),16,16,1TB,Intel Integrated Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0006TU Laptop,66240,,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0024TU Laptop,66240,61.0,13th Gen Intel Core i7 1360P,12 Cores (4P + 8E),16,16,512GB,Intel Integrated Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fc0026AU Laptop,66240,50.0,7th Gen AMD Ryzen 3 7320U,Quad Core,8,8 ,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa0998TX Gaming Laptop,66240,68.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,16,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa0666TX Gaming Laptop,66240,62.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,16,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Spectre x360 16-f2005TX Laptop,66240,,13th Gen Intel Core i7 1360P,12 Cores (4P + 8E),16,32,1TB,4GB  Intel Arc A370M Graphics,16 inches, 3840 x 2400 pixels,Windows 11 OS
+HP 15-fc0028AU Laptop,66240,,7th Gen AMD Ryzen 5 7520U,Quad Core,8,8 ,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fc0025AU Laptop,66240,51.0,7th Gen AMD Ryzen 3 7320U,Quad Core,8,8 ,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb0108AX Gaming Laptop,66240,63.0,5th Gen AMD Ryzen 5  5600H ,Hexa Core,12,8 ,512GB,4GB AMD Radeon RX 6500M Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 247 G8 Laptop,66240,,3rd Gen AMD Ryzen 5 3500U,Quad Core,8,8 ,512GB,AMD Radeon Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP 255 G8 689T4PA Laptop,66240,55.0,3rd Gen AMD Ryzen 3 3250U,Dual Core,4,8 ,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion Aero 13-be2047AU Laptop,66240,65.0,7th Gen AMD Ryzen 7 7735U,Octa Core,16,16,1TB,AMD Radeon AMD,13.3 inches, 1920 x 1200 pixels,Windows 11 OS
+HP 14s-ef1002TU Laptop,66240,55.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,512GB,Intel Integrated UHD,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 240 G8 689U3PA Business Laptop,66240,59.0,11th Gen Intel Core i5 1135G7,Quad Core,8,8 ,512GB,Intel Iris Xe Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP Victus 15-fb0106AX Gaming Laptop,66240,64.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,16,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 245 G8 689T3PA Laptop,66240,54.0,3rd Gen AMD Ryzen 3 3250U,Dual Core,4,8 ,512GB,AMD Radeon Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP Victus 15-fb0777AX Gaming Laptop,66240,63.0,5th Gen AMD Ryzen 5  5600H ,Hexa Core,12,8 ,512GB,4GB AMD Radeon RX 6500M Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14s-dq2649TU Laptop,66240,55.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,512GB,Intel Integrated UHD,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s- eq2212AU Laptop,66240,53.0,5th Gen AMD Ryzen 3  5300U,Quad Core,8,8 ,512GB,AMD Radeon Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Envy x360 15-ew0043TU Laptop,66240,62.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated Iris Xe,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Envy x360 13-bf0121TU  Laptop,66240,64.0,12th Gen Intel Core i5 1230U,10 Cores,12,16,512GB,Intel Integrated Iris Xe,13.4 inches, 1920 x 1200 pixels,Windows 11 OS
+HP 15s-fq5007TU Laptop,66240,55.0,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,512GB,Intel UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 14-dv2014TU Laptop,66240,61.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated UHD Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fq2670TU Laptop,66240,51.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,256GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 255 G8 6X4B2PA Laptop,66240,,3rd Gen AMD Athlon  3050U,Dual Core,2,4 ,256GB,‎AMD Integrated,15.6 inches, 1920 x 1080 pixels,DOS OS
+HP Pavilion 15-eg2018TX Laptop,66240,55.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,2GB NVIDIA GeForce MX550,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb0082AX Gaming Laptop,66240,63.0,5th Gen AMD Ryzen 5  5600H ,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 17-ck1023TX Gaming Laptop,66240,,12th Gen Intel Core i9 12900HX,16 Cores (8P + 8E),24,32,2TB,16GB NVIDIA GeForce RTX 3080Ti,17.3 inches, 2560 x 1440 pixels,Windows 11  OS
+HP Omen 16-n0054AX Gaming Laptop,66240,66.0,6th Gen AMD Ryzen 7  6800H,Octa Core,16,16,1TB,6GB NVIDIA GeForce RTX 3060,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-k0370TX Gaming Laptop,66240,75.0,12th Gen Intel Core i7 12700H,14 Cores (6P + 8E),20,16,1TB,8GB NVIDIA GeForce 3070Ti,16.1 inches, 1920 x 1080 pixels,Windows 11  OS
+HP 247 G8 ‎6B5R3PA Laptop,66240,51.0,5th Gen AMD Ryzen 3  5300U,Quad Core,8,8 ,512GB,AMD Radeon Graphics,14 inches, 1366 x 768 pixels,DOS OS
+HP Pavilion x360 14-ek0072TU Laptop,66240,64.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated Iris Xe,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion x360 14-ek0074TU Laptop,66240,65.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated Iris Xe,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Envy x360 13-bf0078TU Laptop,66240,59.0,12th Gen Intel Core i5 1230U,10 Cores (2P + 8E),12,8 ,512GB,Intel Iris X Graphics,13.3 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion x360 14-ek0074TU Laptop,66240,65.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated Iris Xe,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb0053AX Gaming Laptop,66240,62.0,5th Gen AMD Ryzen 7 5800H ,Octa Core,16,16,512GB,4GB NVIDIA GeForce RTX 3050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 16-e1061AX Gaming Laptop,66240,62.0,6th Gen AMD Ryzen 7  6800H,Octa Core,16,8 ,512GB,4GB NVIDIA GeForce RTX 3050 Ti,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion x360 14-ek0088TU Laptop,66240,62.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14s-dq3037tu Laptop,66240,,Intel Celeron  N4500,Dual Core</li,,8 ,256GB,Intel Integrated UHD Graphics,14 inches, 1366 x 768 pixels,Windows 11  OS
+HP 15s-eq1561AU Laptop,66240,,3rd Gen AMD Ryzen 3  3250U,Dual Core,4,8 ,256GB,AMD Radeon Radeon,15.6 inches, 1366 x 768 pixels,Windows 11 OS
+HP Victus 15-fb0050AX Gaming Laptop,66240,63.0,5th Gen AMD Ryzen 5  5600H ,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa0073TX Laptop,66240,62.0,12th Gen Intel Core i7 12650H,10 Cores (6P + 4E),16,8 ,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14s-dy2507TU Laptop,66240,51.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,256GB,Intel Integrated UHD Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 14-eh0025TU Laptop,66240,65.0,12th Gen Intel Core i5 12500H,12 Cores (4P + 8E),16,16,512GB,Intel Iris Xe Graphics,14 inches, 2240 x 1400 pixels,Windows 11 OS
+HP Spectre X360 16-f1003TU Laptop,66240,71.0,12th Gen Intel Core i7 12700H,14 Cores (6P + 8E),20,16,512GB,Intel Iris X Graphics,16 inches, 3072 x 1920 pixels,Windows 11 OS
+HP Pavilion 14-eh0024TU Laptop,66240,68.0,12th Gen Intel Core i7 12700H,14 Cores (6P + 8E),20,16,1TB,Intel Iris Xe Graphics,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP Pavilion x360 14-ek0078TU Laptop,66240,59.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-du3614TU Laptop,66240,61.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,1TB,256GB SSD,Intel Integrated UHD,,"15.6 inches, 1920 x 1080 pixels"
+HP 15s-fq2674TU Laptop,66240,50.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa0354TX Laptop,66240,64.0,12th Gen Intel Core i7 12650H,10 Cores (6P + 4E),16,16,512GB,4GB NVIDIA GeForce RTX 3050 Ti,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa0165TX Laptop,66240,65.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,8 ,512GB,4GB NVIDIA GeForce GTX 1650,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-FR2511TU Laptop,66240,52.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,512GB,Intel UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 255 G8 62Y23PA Laptop,66240,50.0,3rd Gen AMD Ryzen 3  3250U,Dual Core,4,8 ,512GB,AMD Radeon Vega 8 Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 14-dv2019TU Laptop,66240,53.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,512GB,Intel Integrated Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 14-dv2015TU Laptop,66240,63.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,16,1TB,Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 14-dv2053TU Laptop,66240,57.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 15s-FQ5009TU Laptop,66240,57.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,512GB,Intel Iris Xe,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-B1371TX Laptop,66240,74.0,12th Gen Intel Core i7 12700H,14 Cores (6P + 8E),20,16,1TB,8GB NVIDIA GeForce RTX 3070,16.1 inches, 2560 x 1440 pixels,Windows 11 OS
+HP Pavilion 15-eg2002TU Laptop,66240,55.0,12th Gen Intel Core i5 1240P,12 Cores (4P + 8E),16,16,512GB,Intel Iris Xᵉ Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fq2627TU Laptop,66240,52.0,11th Gen Intel Core i3 1125G4,Quad Core,8,8 ,512GB,Intel UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fq2626TU Laptop,66240,51.0,11th Gen Intel Core i3 1125G4 ,Quad Core,8,8 ,256GB,Intel UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fr2508TU Laptop,66240,,11th Gen Intel Core i3 1125G4,Quad Core,8,8 ,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11  OS
+HP 15s-eq2144au Laptop,66240,54.0,5th Gen AMD Ryzen 5  5500U,Hexa Core,12,8 ,512GB,AMD Radeon Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-B0352TX  Gaming Laptop,66240,69.0,11th Gen Intel Core i7 11800H,Octa Core,16,16,1TB,4GB NVIDIA GeForce RTX 3050 Ti Graphics,16.1 inches, 1920 x 1080 pixels,Windows 10  OS
+HP 245 G8 62G69PA Laptop,66240,,3rd Gen AMD Ryzen 3  3250U ,Dual Core,4,8 ,512GB,AMD Radeon,14 inches, 1366 x 768 pixels,Windows 11  OS
+HP 15s-eq2143au Laptop,66240,50.0,5th Gen AMD Ryzen 3  5300U,Quad Core,8,8 ,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows OS
+HP 15s-du3517TU Laptop,66240,55.0,11th Gen Intel Core i5 1135G7,Quad Core,8,8 ,512GB,Intel Integrated Iris Xe,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 15-DK2096TX Laptop,66240,62.0,11th Gen Intel Core i7 11370H,Quad Core,8,16,512GB,4GB NVIDIA GeForce RTX RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11  OS
+HP Pavilion 14-dv1000TU Laptop,66240,50.0,11th Gen Intel Core i5 1155G7,Quad Core,8,8 ,512GB,Intel Integrated Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,Windows OS
+HP Pavilion Aero 13-be0208AU Laptop,66240,61.0,5th Gen AMD Ryzen 7  5800U,Octa Core,16,16,1TB,AMD Radeon,13.3 inches, 1920 x 1200 pixels,Windows 11  OS
+HP 15s-du3055TU Laptop,66240,50.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,1TB,Intel UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Pavilion 15-eg1000TU Laptop,66240,52.0,11th Gen Intel Core i5 1135G7,Quad Core,8,8 ,512GB,Intel Iris X,15.6 inches, 1920 x 1080 pixels,Windows 11  OS
+HP 15s-gy0501AU Laptop,66240,,3rd Gen AMD Ryzen 3  3250U ,Dual Core,4,8 ,256GB,AMD Radeon Graphics,15.6 inches, 1920 x 1080 pixels,Windows 10  OS
+HP Pavilion 15-ec2004AX Gaming Laptop,66240,62.0,5th Gen AMD Ryzen 5  5600H,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce GTX 1650,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15s-du1516TU Laptop,66240,56.0,10th Gen Intel Core i3 10110U,Dual Core,4,8 ,512GB,Intel UHD,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 14s-dr2015TU Laptop,66240,50.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,512GB,Intel UHD,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 14s-dy2501tu Laptop,66240,,11th Gen Intel Core i3 1115G4 ,Dual Core,4,8 ,256GB,Intel UHD Graphics,14 inches, 1920 x 1080 pixels,Windows 10  OS
+HP 14s-dy2500TU Laptop,66240,,11th Gen Intel Core i3,Dual Core</li,,8 ,256GB,Intel Integrated UHD,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15s-GR0012AU Laptop,66240,56.0,3rd Gen AMD Ryzen 3  3250U,Dual Core,4,8 ,1TB,256GB SSD,AMD Radeon Vega 6,,"15.6 inches, 1920 x 1080 pixels"
+HP 15s-du1052TU Laptop,66240,,Intel Pentium Gold 6405U,Dual Core</li,,4 ,1TB,Intel Integrated UHD,15.6 inches, 1366 x 768 pixels,Windows 10 OS
+HP 14s-fr0012AU Laptop,66240,50.0,3rd Gen AMD Ryzen 5  3450U,Quad Core</li,,8 ,512GB,AMD Radeon Vega 8,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 14s-dr1006TU Laptop,66240,55.0,10th Gen Intel Core i7 1065G7,Quad Core,8,8 ,512GB,Intel Integrated Iris Plus,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Spectre x360 13-aw0211TU,66240,55.0,10th Gen Intel Core i5 1035G4,Quad Core,8,8 ,512GB,Intel Iris Plus,13.3 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15s-du1034tu,66240,57.0,10th Gen Intel Core i5 10210U,Quad Core,8,8 ,1TB,Intel UHD,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP EliteBook 840 G6,66240,50.0,8th Gen Intel Core i5 8265U,Quad Core,8,8 ,512GB,Integrated UHD Graphics 620,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Spectre x360 14-eu0558TU Laptop,66240,71.0,Intel Core Ultra 7 Series 1 155H,16 Cores (6P + 8E + 2LP-E),22,32,1TB,Intel Arc Graphics,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP Victus 15-fb0178AX Gaming Laptop,66240,62.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,16,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14-ep0341TU Laptop,66240,50.0,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,8 ,512GB,Intel UHD Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP OmniBook 5 16-ba1123TU Laptop,66240,53.0,13th Gen Intel Core i5 1334U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP 240R G9 ‎B15JNAT Laptop,66240,,12th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated Graphics,14 inches, 1366 x 720 pixels,Windows 11 OS
+HP 240R G9 ‎‎B10MSAT Laptop,66240,50.0,12th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,16,512GB,Intel Integrated Graphics,14 inches, 1366 x 720 pixels,Windows 11 OS
+HP 240R G9 B10MRAT Laptop,66240,,12th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,16,512GB,Intel Integrated Graphics,14 inches, 1366 x 720 pixels,DOS OS
+HP 15-fd1253TU Laptop,66240,,Intel Core 3 100U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd1253TU Laptop,66240,,Intel Core 3 100U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 240 G10 ‎B10LVPT Business Laptop,66240,,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,8 ,512GB,Intel UHD Graphics,14 inches, 1366 x 768 pixels,DOS OS
+HP Victus ‎15-fb0180AX Gaming Laptop,66240,63.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 250R G9 ‎B10M4AT Laptop,66240,54.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated UHD Graphics,15.6 inches, 1366 x 768 pixels,DOS OS
+HP ‎15-fd0468TULaptop,66240,59.0,13th Gen Intel Core i7 1355U,10 Cores (2P + 8E),12,16,512GB,‎Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Laptop 250 G9 Laptop,66240,50.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,8 ,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,Windows OS
+HP ZBook Firefly 16 G11 A1VX6PT Laptop,66240,72.0,Intel Core Ultra 7 Series 1 155H,16 Cores (6P + 8E + 2LP-E),22,16,1TB,4GB NVIDIA RTX A500,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook Firefly 16 G11 A1VX4PT Laptop,66240,77.0,Intel Core Ultra 7 Series 1 155H,16 Cores (6P + 8E + 2LP-E),22,32,1TB,4GB NVIDIA RTX A500,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP 240R G9 Laptop,66240,,12th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,16,512GB,Intel Integrated Graphics,14 inches, 1366 x 720 pixels,Windows 11 OS
+HP 250R G9 B10MTAT Laptop,66240,52.0,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated UHD Graphics,15.6 inches, 1366 x 768 pixels,DOS OS
+HP ZBook Firefly 14 G10 8F6C8PA Workstation Laptop,66240,66.0,13th Gen Intel Core i7 1355U,10 Cores (2P + 8E),12,16,1TB,"14inches, 1920x1200pixels",Windows 11 OS,,
+HP ZBook Firefly 14 G11 A92TXPT Laptop,66240,57.0,Intel Core Ultra 5 Processor 125U,12 Cores (2P + 8E + 2LP-E),14,16,512GB,Integrated Intel Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP OmniBook Ultra Flip AI 2 in 1 Laptop,66240,73.0,Intel Core Ultra 9 288V,Octa Core (4P + 4LP-E),8,32,2TB,Intel Arc Graphics 140V,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP ZBook Firefly 14 G11 A92U2PT Laptop,66240,70.0,Intel Core Ultra 7 155U,12 Cores (2P + 8E + 2LP-E),14,16,512GB,Intel Arc Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook Firefly 14 G10 8F6D3PA Workstation Laptop,66240,68.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,512GB,4GB NVIDIA RTX A500,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP 240 14 G9 9H223PT Laptop,66240,51.0,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,512GB,Intel UHD Graphics,14 inches, 1366 x 768 pixels,DOS OS
+HP Victus 15-FA1402TX Gaming Laptop,66240,69.0,12th Gen Intel Core i7 12650H,10 Cores (6P + 4E),16,16,1TB,4GB NVIDIA GeForce RTX 3050A,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0315TU Laptop,66240,56.0,13th Gen Intel Core i5 1334U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated Iris Xe,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0112TU Laptop,66240,53.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,1TB,Intel Integrated Iris Xe,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0063TU Laptop,66240,,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP ZBook Power G11 A8WN1PT Laptop,66240,75.0,Intel Core Ultra 7 Series 1 155H,16 Cores (6P + 8E + 2LP-E),22,16,1TB,6GB NVIDIA RTX A1000,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP 255 G9 8M397PA Laptop,66240,52.0,5th Gen AMD Ryzen 5 5625U,Hexa Core,12,8 ,512GB,AMD Radeon Graphics,14.1 inches, 1366 x 768 pixels,Windows 11 OS
+HP Victus 15-fa1321TX Gaming Laptop,66240,65.0,13th Gen Intel Core i7 13620H,10 Cores (6P + 4E),16,16,512GB,6GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14-gr0001TU Laptop,66240,54.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 15-eg3130TU Laptop,66240,,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,8 ,256GB,Intel Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus Special Edition 15-fa1389TX Gaming Laptop,66240,65.0,12th Gen Intel Core i7 12650H,10 Cores (6P + 4E),16,16,1TB,4GB NVIDIA GeForce RTX 3050A,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14-gr1022TU Laptop,66240,57.0,Intel Core Ultra 5 Series 1 125H,14 Cores (4P + 8E + 2LP-E),18,16,512GB,Intel Arc Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion Aero 13-bg0017AU Laptop,66240,56.0,8th Gen AMD Ryzen 7 8840U,Octa Core,16,16,512GB,AMD Radeon AMD,13.3 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Pavilion Aero 13-bg0016AU Laptop,66240,,8th Gen AMD Ryzen 5 8640U,Hexa Core,12,16,512GB,AMD Radeon AMD,13.3 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Chromebook x360 14b-cd0011TU Laptop,66240,,Intel N100 N100,Quad Core,4,4 ,128GB,Intel Integrated UHD,14 inches, 1366 x 768 pixels,Chrome OS OS
+HP Chromebook 14a-nf0016tu Laptop,66240,,Intel N200,Quad Core,4,8 ,128GB,Intel Integrated UHD,14 inches, 1366 x 768 pixels,Chrome OS
+HP Chromebook 14a-nf0014tu Laptop,66240,,Intel N100 N100,Quad Core,4,4 ,64GB,Intel Integrated UHD,14 inches, 1366 x 768 pixels,Chrome OS
+HP 15s-fy5010TU Laptop,66240,54.0,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,256GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fy5011TU Laptop,66240,53.0,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,512GB,Intel UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP EliteBook Ultra AI PC Laptop,66240,,Qualcomm Snapdragon X Elite,16 GB LPDDR5X RAM</li,,51,Qualcomm,"14inches, 2240x1400pixels, Touch Screen",Windows 11 OS,,
+HP OmniBook X 14-fe000 AI Laptop,66240,,Qualcomm Snapdragon X Elite X1E-78-100,12 Cores</li,,16,512GB,Qualcomm Adreno GPU,14 inches, 2240 x 1400 pixels,Windows 11 OS
+HP 15-fd0187TU Laptop,66240,50.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,8 ,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1327TX Gaming Laptop,66240,63.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,6GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-wd0012TX Gaming Laptop,66240,72.0,13th Gen Intel Core i7 13620H,10 Cores (6P + 4E),16,16,1TB,8GB NVIDIA GeForce RTX 4060,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 16-af0015TU Laptop,66240,52.0,Intel Core Ultra 5 Processor 125U,12 Cores (2P + 8E + 2LP-E),14,16,512GB,Intel Integrated,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Pavilion 16-af0015TU Laptop,66240,52.0,Intel Core Ultra 5 Processor 125U,12 Cores (2P + 8E + 2LP-E),14,16,512GB,Intel Integrated,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP 255 G9 ‎949J0PA Laptop,66240,,AMD Ryzen 5,8 GB DDR4 RAM</li,,51,Intel,"15.6inches, 1366x768pixels",DOS OS,,DOS OS
+HP Chromebook 11MK G9 EE Touch Laptop,66240,,MediaTek Kompanio 500,Octa Core</li,,4 ,32GB,Arm Mali-G72 MP3,11.6 inches, 1366 x 768 pixels,Chrome OS
+HP 250 G9 8Y2Y9PA Laptop,66240,,Intel Celeron N4500,Dual Core,2,8 ,256GB,Intel Integrated,15.6 inches, 1366 x 768 pixels,DOS OS
+HP 250 G9 6S798EA Laptop,66240,,Intel Celeron N4500,Dual Core,2,8 ,256GB,Intel Integrated,15.6 inches, 1366 x 768 pixels,Windows 11 OS
+HP Chromebook 15a-nb0006TU Laptop,66240,,Intel Core i3 N305,8 Threads</li,,8 ,256GB,Intel Integrated UHD Graphics,15.6 inches, 1366 x 768 pixels,Chrome OS
+HP 15-fd0220TU Laptop,66240,53.0,13th Gen Intel Core i5 1334U,10 Cores (2P + 8E),12,8 ,512GB,Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fq5327TU Laptop,66240,55.0,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,512GB,Intel UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Envy x360 15-fe0014TX Laptop,66240,69.0,13th Gen Intel Core i7 1355U,10 Cores (2P + 8E),12,16,1TB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Envy x360 14-fa0052AU Laptop,66240,69.0,8th Gen AMD Ryzen 7 8840HS,Octa Core,16,16,512GB,AMD Radeon Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Victus 15-fa1216TX Gaming Laptop,66240,62.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-FC0029AU Laptop,66240,56.0,7th Gen AMD Ryzen 5 7520U,Quad Core,8,8 ,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion Plus 14-ew0116TU Laptop,66240,57.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook Firefly 14 G10 Workstation Laptop,66240,69.0,13th Gen Intel Core i7 1355U,10 Cores (2P + 8E),12,16,1TB,Intel Iris Xe Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Victus 15-fa1124TX Gaming Laptop,66240,64.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,8 ,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fr5010TU Laptop,66240,55.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,512GB,Intel UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 245 G9 841W7PA Laptop,66240,50.0,3rd Gen AMD Ryzen 3 3250U,Dual Core,4,8 ,512GB,AMD Radeon Graphics,14 inches, 1366 x 768 pixels,DOS OS
+HP Omen 16-wf1026TX Gaming Laptop,66240,,14th Gen Intel Core i7 14700HX,20 Cores (8P + 12E),28,16,1TB,8GB NVIDIA GeForce RTX 4070,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Envy x360 15-fh0014AU Laptop,66240,60.0,7th Gen AMD Ryzen 5 7530U,Hexa Core,12,8 ,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 240 G9 8J0S5PA Laptop,66240,54.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,512GB,Intel Iris Xe Graphics,14 inches, 1366 x 768 pixels,DOS OS
+HP 240 G9 8J0S5PA Laptop,66240,54.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,512GB,Intel Iris Xe Graphics,14 inches, 1366 x 768 pixels,DOS OS
+HP 15s-EQ2084AU Laptop,66240,57.0,5th Gen AMD Ryzen 7  5700U,Octa Core,16,16,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1145TX Gaming Laptop,66240,68.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,16,1TB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fq2510tu Laptop,66240,60.0,11th Gen Intel Core i5 1135G7 ,Quad Core,8,16,512GB,Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Spectre x360 14-ef2036TU Laptop,66240,66.0,13th Gen Intel Core i7 1355U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,13.5 inches, 3000 x 2000 pixels,Windows 11 OS
+HP 240 G8 689U4PA Business Laptop,66240,60.0,11th Gen Intel Core i5 1135G7,Quad Core,8,8 ,512GB,Intel Iris Xe Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP 15s-fq5185TU Laptop,66240,55.0,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 14-dv2153TU Laptop,66240,63.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,1TB,Intel Integrated Iris Xe,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fy5006TU Laptop,66240,53.0,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 255 G9 724N9EA Laptop,66240,,3rd Gen AMD Athlon 3050U,Dual Core,2,4 ,256GB,AMD Integrated,15.6 inches, 1366 x 768 pixels,Windows 11 OS
+HP 15-fc0027AU Laptop,66240,52.0,7th Gen AMD Ryzen 3 7320U,Quad Core,8,8 ,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 15-eg3018TU Laptop,66240,55.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,1TB,Intel Integrated Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 250 G9 7N179PA Laptop,66240,56.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,512GB,Intel Iris Xe Graphics,15.6 inches, 1366 x 768 pixels,Windows 11 OS
+HP Victus 15-fb1015AX Gaming Laptop,66240,66.0,7th Gen Amd Ryzen 5 7535HS,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-wf0056TX 834U0PA Gaming Laptop,66240,68.0,13th Gen Intel Core i7 13700HX,16 Cores (8P + 8E),24,16,512GB,8GB NVIDIA GeForce RTX 4060,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15S-EQ1550AU Laptop,66240,52.0,3rd Gen AMD Ryzen 3 3250U,Dual Core,4,8 ,512GB,AMD Radeon Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 15-eg3017TU Laptop,66240,59.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,1TB,Intel Integrated Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus  15-fa1060TX  Gaming Laptop,66240,66.0,13th Gen Intel Core i5 13500H,12 Cores (4P + 8E),16,16,512GB,6GB NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-u0023TX Gaming Laptop,66240,,13th Gen Intel Core i9 13900HX,24 Cores (8P + 16E),32,32,1TB,8GB NVIDIA GeForce RTX 4070,16.1 inches, 2560 x 1600 pixels,Windows 11 OS
+HP Victus 15-fb0153AX Gaming Laptop,66240,64.0,5th Gen AMD Ryzen 5  5600H ,Hexa Core,12,8 ,512GB,4GB AMD Radeon RX 6500M,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Dragonfly G4 Laptop,66240,69.0,13th Gen Intel Core i7 1365U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,13.5 inches, 1920 x 1280 pixels,Windows 11 OS
+HP Omen 16-u0005TX Gaming Laptop,66240,77.0,13th Gen Intel Core i7 13700HX,16 Cores (8P + 8E),24,16,1TB,8GB NVIDIA GeForce RTX 4070,16.1 inches, 2560 x 1600 pixels,Windows 11 OS
+HP ProBook 440 G9 7X8W8PA Laptop,66240,56.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,DOS OS
+HP 15s-fy5005TU Laptop,66240,51.0,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,1TB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP ZBook Studio G9 Workstation Laptop,66240,,12th Gen Intel Core i7 12700H ,14 Cores (6P + 8E),20,16,1TB,8GB NVIDIA GeForce RTX 3070 Ti ,16 inches, 3840 x 2400 pixels,Windows 11 OS
+HP ZBook Firefly 14 G9 WUXGA Laptop,66240,62.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,1TB,Intel Iris Xᵉ Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook Studio G9 16 WUXGA Workstation Laptop,66240,78.0,12th Gen Intel Core i7 12700H ,14 Cores (6P + 8E),20,16,1TB,6GB NVIDIA GeForce RTX 3060,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook Studio G9 Workstation WQUXGA Laptop,66240,,12th Gen Intel Core i7 12700H ,14 Cores (6P + 8E),20,16,1TB,6GB NVIDIA GeForce RTX 3060,16 inches, 3840 x 2400 pixels,Windows 11 OS
+HP ZBook Firefly 14 G9 Laptop,66240,60.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xᵉ Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Envy x360 15-fh0019AU Laptop,66240,66.0,7th Gen AMD Ryzen 7 7730U,Octa Core,16,16,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Envy x360 15-fe0027TU Laptop,66240,62.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated Iris Xe,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14-hr0000AU Laptop,66240,56.0,7th Gen AMD Ryzen 5 7520U,Quad Core,8,16,512GB,AMD Radeon AMD,14 inches, 1920 x 1080 pixels,Windows 11 OS
+‎HP Zbook Power G4-A 2023 ZHAN 99 Laptop,66240,68.0,6th Gen AMD Ryzen 5 6600H,Hexa Core,12,16,1TB,512GB SSD,4 GB ‎NVIDIA Quadro T600,,"15.6 inches, 1920 x 1080 pixels"
+HP 14-hr0001AU Laptop,66240,54.0,7th Gen AMD Ryzen 5 7520U,Quad Core,8,8 ,512GB,AMD Radeon AMD,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Envy 15-fe0030TU Laptop,66240,64.0,13th Gen Intel Core i7 1355U,10 Cores (2P + 8E),12,16,512GB,Intel Iris X Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14-gr0000TU Laptop,66240,52.0,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,8 ,512GB,Intel UHD Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14-em0026AU Laptop,66240,54.0,7th Gen AMD Ryzen 5 7520U,Quad Core,8,8 ,512GB,AMD Radeon AMD,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 240 G9 7K5J8PA Notebook Laptop,66240,60.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP Omen 17-cm2003TX Gaming Laptop,66240,79.0,13th Gen Intel Core i7 13700HX ,16 Cores (8P + 8E),24,16,1TB,8GB NVIDIA GeForce RTX 4060,17.3 inches, 2560 x 1440 pixels,Windows 11 OS
+HP 15s-ey1509AU Laptop,66240,,3rd Gen AMD Athlon 3050U,Dual Core,2,8 ,512GB,AMD Radeon AMD,15.6 inches, 1366 x 768 pixels,Windows 11 OS
+HP 15s-fq3071TU Laptop,66240,,Intel Celeron  N4500,Dual Core,2,8 ,512GB,Intel Integrated UHD Graphics,15 inches, 1366 x 768 pixels,Windows 11  OS
+HP Victus 15-fb0133AX Gaming Laptop,66240,63.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,16,512GB,4GB AMD Radeon RX 5600M ,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fr5009TU Laptop,66240,55.0,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,512GB,Intel UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-eq1580AU Laptop,66240,54.0,3rd Gen AMD Ryzen 3  3250U,Dual Core,4,8 ,512GB,AMD Radeon Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-hr0000TU Laptop,66240,52.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,8 ,512GB,Intel Integrated Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 15-eh2050AU Laptop,66240,59.0,5th Gen AMD Ryzen 5 5625U,Hexa Core,12,8 ,512GB,AMD Radeon Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fc0030AU Laptop,66240,51.0,7th Gen AMD Ryzen 5 7520U,Quad Core,8,16,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1066TX Gaming Laptop,66240,66.0,13th Gen Intel Core i7 13700H,14 Cores (6P + 8E),20,16,512GB,6GB NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0018TU Laptop,66240,,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP ProBook 440 G8 5D6U3PA Notebook PC,66240,63.0,11th Gen Intel Core i5 1135G7,Quad Core,8,8 ,512GB,Intel Iris Xe Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP Pavilion 15-eg2017TU Laptop,66240,56.0,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,512GB,Intel UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-eg3036TU Laptop,66240,65.0,13th Gen Intel Core i7 1360P,12 Cores (4P + 8E),16,16,1TB,Intel Integrated Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fq2738TU Laptop,66240,52.0,11th Gen Intel Core i3 1115G4 ,Dual Core,4,8 ,512GB,Intel Integrated UHD Graphics,15.6 inches, 1366 x 768 pixels,Windows 11 OS
+HP Omen 16-n0123AX Gaming Laptop,66240,73.0,6th Gen AMD Ryzen 7  6800H,Octa Core,16,16,1TB,8GB NVIDIA GeForce RTX 3070 Ti ,16.1 inches, 2560 x 1440 pixels,Windows 11 OS
+HP Victus 15-fb0121AX Gaming Laptop,66240,63.0,5th Gen AMD Ryzen 5  5600H ,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce GTX 1650,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Spectre x360 2023 13.5-ef2033TU Laptop,66240,68.0,13th Gen Intel Core i7 1355U,10 Cores (2P + 8E),12,16,1TB,Intel Iris Xe Graphics,13.5 inches, 3000 x 2000 pixels,Windows 11 OS
+HP 15-fc0028AU Laptop,66240,,7th Gen AMD Ryzen 5 7520U,Quad Core,8,8 ,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fc0025AU Laptop,66240,51.0,7th Gen AMD Ryzen 3 7320U,Quad Core,8,8 ,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb0108AX Gaming Laptop,66240,63.0,5th Gen AMD Ryzen 5  5600H ,Hexa Core,12,8 ,512GB,4GB AMD Radeon RX 6500M Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 247 G8 Laptop,66240,,3rd Gen AMD Ryzen 5 3500U,Quad Core,8,8 ,512GB,AMD Radeon Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP 247 G8 ‎6B5R3PA Laptop,66240,51.0,5th Gen AMD Ryzen 3  5300U,Quad Core,8,8 ,512GB,AMD Radeon Graphics,14 inches, 1366 x 768 pixels,DOS OS
+HP 250 G8 6X4B3PA Laptop,66240,,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,512GB,Intel UHD,15.6 inches, 1366 x 768 pixels,Windows 11 OS
+HP Omen 17-ck1022TX Gaming Laptop,66240,73.0,12th Gen Intel Core i7 12800HX,16 Cores,24,32,1TB,8GB NVIDIA GeForce RTX 3070Ti,16.1 inches, 2560 x 1440 pixels,Windows 11 OS
+HP Envy x360 13-bf0063TU Laptop,66240,66.0,12th Gen Intel Core i7 1250U,10 Cores,12,16,1TB,Intel Iris X Graphics,13.3 inches, 2880 x 1800 pixels,Windows 11 OS
+HP 250 G8 6G9R1PA Notebook,66240,,11th Gen Intel Core i3,8 GB DDR4 RAM</li,,51,Intel,"15.6inches, 1366x768pixels",DOS OS,,
+HP Victus 15-fb0053AX Gaming Laptop,66240,62.0,5th Gen AMD Ryzen 7 5800H ,Octa Core,16,16,512GB,4GB NVIDIA GeForce RTX 3050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Spectre x360 13-ef0054TU Laptop,66240,72.0,12th Gen Intel Core i7 12700H,14 Cores (6P + 8E),20,16,1TB,Intel Iris Xe Graphics,13.5 inches, 3000 x 2000 pixels,Windows 11 OS
+HP 15s-eq1561AU Laptop,66240,,3rd Gen AMD Ryzen 3  3250U,Dual Core,4,8 ,256GB,AMD Radeon Radeon,15.6 inches, 1366 x 768 pixels,Windows 11 OS
+HP Pavilion x360 14-ek0088TU Laptop,66240,62.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-ey1508AU Laptop,66240,,3rd Gen AMD Ryzen 3  3250U,Dual Core,4,8 ,256GB,AMD Radeon Radeon,15.6 inches, 1366 x 768 pixels,Windows 11 OS
+HP 14s-dq3037tu Laptop,66240,,Intel Celeron  N4500,Dual Core</li,,8 ,256GB,Intel Integrated UHD Graphics,14 inches, 1366 x 768 pixels,Windows 11  OS
+HP Victus 15-fa0351TX Laptop,66240,62.0,12th Gen Intel Core i7 12650H,10 Cores (6P + 4E),16,8 ,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Spectre X360 16-f1003TU Laptop,66240,71.0,12th Gen Intel Core i7 12700H,14 Cores (6P + 8E),20,16,512GB,Intel Iris X Graphics,16 inches, 3072 x 1920 pixels,Windows 11 OS
+HP Victus 15-fa0073TX Laptop,66240,62.0,12th Gen Intel Core i7 12650H,10 Cores (6P + 4E),16,8 ,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 15s-fq5112TU Laptop,66240,53.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 15s-eq2182AU Laptop,66240,55.0,5th Gen AMD Ryzen 5  5500U ,Hexa Core,12,16,512GB,AMD Radeon Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fq2672TU Laptop,66240,52.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fq2674TU Laptop,66240,50.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 16-E0301Ax Gaming Laptop,66240,66.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce GTX 1650,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa0354TX Laptop,66240,64.0,12th Gen Intel Core i7 12650H,10 Cores (6P + 4E),16,16,512GB,4GB NVIDIA GeForce RTX 3050 Ti,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14s-fq0568AU Laptop,66240,,3rd Gen AMD Athlon  3050U,Dual Core,2,8 ,256GB,AMD Radeon AMD,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP Pavilion x360 14-ek0078TU Laptop,66240,59.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-FR2511TU Laptop,66240,52.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,512GB,Intel UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Spectre x360 13-ef0053TU Laptop,66240,72.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,16,512GB,Intel Iris X Graphics,13.5 inches, 3000 x 2000 pixels,Windows 11 OS
+HP 15s- fr2512TU Laptop,66240,,11th Gen Intel Core i3 1125G4,Quad Core,8,8 ,512GB,Intel UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 16-e1060AX Gaming Laptop,66240,71.0,6th Gen AMD Ryzen 7 6800H ,Octa Core,16,16,512GB,4GB NVIDIA GeForce RTX 3050 Ti,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 16-e1062AX Gaming Laptop,66240,60.0,6th Gen AMD Ryzen 5  6600H ,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce RTX 3050 ,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 255 G8 62Y23PA Laptop,66240,50.0,3rd Gen AMD Ryzen 3  3250U,Dual Core,4,8 ,512GB,AMD Radeon Vega 8 Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 15-eg2036TU Laptop,66240,61.0,12th Gen Intel Core i5 1240P,12 Cores (4P + 8E),16,16,512GB,Intel Integrated Iris Xe,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 14-dv2041TU Laptop,66240,60.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 14-dv2019TU Laptop,66240,53.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,512GB,Intel Integrated Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 15-EG2019TX Laptop,66240,61.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,2GB NVIDIA GeForce MX550,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 14-EC1008AU Laptop,66240,55.0,5th Gen AMD Ryzen 7  5825U,Octa Core,16,16,512GB,AMD Radeon AMD,14 inches, 1920 x 1080 pixels,Windows 11  OS
+HP 14-eg0008qu Laptop,66240,,Qualcomm Snapdragon 7c Gen 2 7c Gen 2,Octa Core</li,,8 ,Qualcomm,"14inches, 1920x1080pixels",Windows 11  OS,,
+HP Omen 16-B1371TX Laptop,66240,74.0,12th Gen Intel Core i7 12700H,14 Cores (6P + 8E),20,16,1TB,8GB NVIDIA GeForce RTX 3070,16.1 inches, 2560 x 1440 pixels,Windows 11 OS
+HP ProBook 635 Aero G8 Notebook,66240,54.0,5th Gen AMD Ryzen 5 5600U ,Hexa Core,12,8 ,512GB,AMD Radeon Graphics,13.3 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Pavilion 15-eg2009TU Laptop,66240,59.0,12th Gen Intel Core i5 1240P,12 Cores (4P + 8E),16,8 ,512GB,Intel Iris Xe,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-fq2627TU Laptop,66240,52.0,11th Gen Intel Core i3 1125G4,Quad Core,8,8 ,512GB,Intel UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-c0138AX Laptop,66240,66.0,5th Gen AMD Ryzen 7 5800H,Octa Core,16,16,512GB,4GB NVIDIA GeForce RTX 3050 Ti,16.1 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15s-fr2508TU Laptop,66240,,11th Gen Intel Core i3 1125G4,Quad Core,8,8 ,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11  OS
+HP 14s-dq3033TU Laptop,66240,,Intel Pentium Silver N6000 ,Quad Core,4,8 ,256GB,Intel UHD Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP 14s- dq3032tu Laptop,66240,,Intel Celeron  N4500,Dual Core</li,,8 ,256GB,Intel Integrated UHD Graphics,14 inches, 1366 x 768 pixels,Windows 11  OS
+HP 245 G8 62G69PA Laptop,66240,,3rd Gen AMD Ryzen 3  3250U ,Dual Core,4,8 ,512GB,AMD Radeon,14 inches, 1366 x 768 pixels,Windows 11  OS
+HP Omen 16-B0352TX  Gaming Laptop,66240,69.0,11th Gen Intel Core i7 11800H,Octa Core,16,16,1TB,4GB NVIDIA GeForce RTX 3050 Ti Graphics,16.1 inches, 1920 x 1080 pixels,Windows 10  OS
+HP 14s-fq1092au Laptop,66240,59.0,5th Gen AMD Ryzen 5 5500U,Hexa Core,12,8 ,512GB,AMD Radeon,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-eq2143au Laptop,66240,50.0,5th Gen AMD Ryzen 3  5300U,Quad Core,8,8 ,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows OS
+HP Pavilion 15-DK2096TX Laptop,66240,62.0,11th Gen Intel Core i7 11370H,Quad Core,8,16,512GB,4GB NVIDIA GeForce RTX RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11  OS
+HP Omen 16-b0370TX Laptop,66240,73.0,11th Gen Intel Core i7 11800H,Octa Core,16,16,1TB,8GB NVIDIA GeForce RTX 3070,16.1 inches, 2560 x 1440 pixels,Windows 10 OS
+HP Pavilion 15-eg1000TU Laptop,66240,52.0,11th Gen Intel Core i5 1135G7,Quad Core,8,8 ,512GB,Intel Iris X,15.6 inches, 1920 x 1080 pixels,Windows 11  OS
+HP Pavilion Aero 13-be0208AU Laptop,66240,61.0,5th Gen AMD Ryzen 7  5800U,Octa Core,16,16,1TB,AMD Radeon,13.3 inches, 1920 x 1200 pixels,Windows 11  OS
+HP 15s-du3564TU Laptop,66240,51.0,11th Gen Intel Core i3 1125G4,Quad Core,8,8 ,512GB,Intel Integrated UHD,15.6 inches, 1366 x 768 pixels,Windows 11 OS
+HP 15s-gy0501AU Laptop,66240,,3rd Gen AMD Ryzen 3  3250U ,Dual Core,4,8 ,256GB,AMD Radeon Graphics,15.6 inches, 1920 x 1080 pixels,Windows 10  OS
+HP 240 G8 4J0K2PA Laptop,66240,,11th Gen Intel Core i3 1115G4 ,Dual Core,4,8 ,1TB,Intel UHD Graphics,14 inches, 1366 x 768 pixels,Windows 10 OS
+HP 15s-ey1004AU Laptop,66240,51.0,AMD Ryzen 5  4500U,Hexa Core,6,8 ,256GB,AMD Radeon Vega 8,15.6 inches, 1366 x 768 pixels,Windows 10 OS
+HP Pavilion 15-eh1103AU Laptop,66240,56.0,5th Gen AMD Ryzen 5  5500U,Hexa Core,12,16,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15s-du1516TU Laptop,66240,56.0,10th Gen Intel Core i3 10110U,Dual Core,4,8 ,512GB,Intel UHD,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15s-gr0500AU Laptop,66240,53.0,3rd Gen AMD Ryzen 5  3500U,Quad Core,8,8 ,512GB,AMD Radeon,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 14s-DQ2100TU Laptop,66240,,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,256GB,Intel Integrated UHD,14 inches, 1366 x 768 pixels,Windows 10 OS
+HP 15s-FQ2071TU Laptop,66240,51.0,11th Gen Intel Core i5,Quad Core</li,,8 ,512GB,Intel Integrated Iris Xe,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 250 G8 42V68PA Laptop,66240,,11th Gen Intel Core i3 1115G4 ,Dual Core,4,8 ,512GB,Intel UHD Graphics,15.6 inches, 1366 x 768 pixels,Windows 10 OS
+HP 14s- DQ3018TU Laptop,66240,,Intel Pentium  N6000,Quad Core,4,8 ,256GB,Intel Integrated UHD,14 inches, 1366 x 768 pixels,Windows 10 OS
+HP 250 G8 3D4T7PA Laptop,66240,,10th Gen Intel Core i3 1005G1 ,Dual Core,4,4 ,512GB,Intel HD Integrated Graphics,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15s-EQ2040AU Laptop,66240,51.0,5th Gen AMD Ryzen 5  5500U,Hexa Core,12,8 ,512GB,AMD Radeon,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 14s-dr2015TU Laptop,66240,50.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,512GB,Intel UHD,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 14s-dq2535TU Laptop,66240,54.0,11th Gen Intel Core i5 1135G7,Quad Core,8,8 ,512GB,Intel Integrated Iris Xe,14 inches, 1366 x 768 pixels,Windows 10 OS
+HP 14s-dq3017TU Laptop,66240,,Intel Celeron  N4500,Dual Core</li,,8 ,256GB,Intel Integrated UHD,14 inches, 1366 x 768 pixels,Windows 10 OS
+HP 14s-fq1030AU Laptop,66240,52.0,5th Gen AMD Ryzen 5 5500U ,Hexa Core,12,8 ,512GB,AMD Integrated SoC,14 inches, 1920 x 1080 pixels,Windows 10  OS
+15s-eq0500AU Laptop,66240,51.0,3rd Gen AMD Ryzen 5 3500U,Quad Core,8,8 ,512GB,AMD Radeon Vega 8 ,15.6 inches, 1920 x 1080 pixels,Windows 10  OS
+HP 250 G8 3Y667PA Laptop,66240,53.0,11th Gen Intel Core i5 1135G7,Quad Core,8,8 ,1TB,Intel Iris,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15s-fq2075TU Laptop,66240,50.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,256GB,Intel UHD,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15s-FR2006TU Laptop,66240,,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15s-du1052TU Laptop,66240,,Intel Pentium Gold 6405U,Dual Core</li,,4 ,1TB,Intel Integrated UHD,15.6 inches, 1366 x 768 pixels,Windows 10 OS
+HP 15s-GR0012AU Laptop,66240,56.0,3rd Gen AMD Ryzen 3  3250U,Dual Core,4,8 ,1TB,256GB SSD,AMD Radeon Vega 6,,"15.6 inches, 1920 x 1080 pixels"
+HP 15s-du3040TU Laptop,66240,54.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,1TB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15s-fr2005tu Laptop,66240,,11th Gen Intel Core i5 1135G7 ,Quad Core,8,8 ,1TB,Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 10  OS
+HP 14s-fr0012AU Laptop,66240,50.0,3rd Gen AMD Ryzen 5  3450U,Quad Core</li,,8 ,512GB,AMD Radeon Vega 8,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15s-du0051TU Laptop,66240,56.0,8th Gen Intel Core i5 8265U,Quad Core,8,8 ,1TB,Intel Integrated UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 14-ck2018TU Laptop,66240,53.0,10th Gen Intel Core i5 10210U,Quad Core,8,8 ,512GB,Intel Integrated UHD,14 inches, 1366 x 768 pixels,Windows 10 OS
+HP 15s-du2002TU Laptop,66240,53.0,10th Gen Intel Core i3 1005G1,Dual Core,4,8 ,1TB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15s-du2067TU Laptop,66240,57.0,10th Gen Intel Core i3 1005G1,Dual Core,4,4 ,1TB,256GB SSD,Intel Integrated UHD,,"15.6 inches, 1920 x 1080 pixels"
+HP 15s-GR0008AU Laptop,66240,54.0,3rd Gen AMD Ryzen 3  3250U,Dual Core,4,4 ,1TB,256GB SSD,AMD Radeon,,"15.6 inches, 1920 x 1080 pixels"
+HP 15s-eq0132AU Laptop,66240,50.0,AMD Ryzen 7  3700U,Quad Core,8,8 ,512GB,AMD Radeon RX Vega 10,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15s-fr1004tu Laptop,66240,52.0,10th Gen Intel Core i3 1005G1,Dual Core,4,4 ,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Spectre x360 13-aw0211TU,66240,55.0,10th Gen Intel Core i5 1035G4,Quad Core,8,8 ,512GB,Intel Iris Plus,13.3 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 14q-cs0005tu,66240,,7th Gen Intel Core i3 7020U,Dual Core,4,4 ,1TB,Intel HD 620,14 inches, 1366 x 768 pixels,"14 inches, 1366 x 768 pixels"
+HP Elitebook 840 G8 4S1H5PA Laptop,66240,64.0,11th Gen Intel Core i5 1135G7 ,Quad Core,8,8 ,512GB,Intel Iris Xe,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Victus 15-fa2104TX  Gaming Laptop,66240,65.0,13th Gen Intel Core i7 13620H,10 Cores (6P + 4E),16,16,512GB,6GB NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa2190TX Gaming Laptop,66240,61.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Elitebook 830 G5,66240,60.0,8th Gen Intel Core i5 8250U,Quad Core,8,8 ,256GB,Intel UHD 620,13.3 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15-fc1038AU Laptop,66240,62.0,7th Gen AMD Ryzen 7 7735HS,Octa Core,16,16,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb0178AX Gaming Laptop,66240,62.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,16,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14-ep0340TU Laptop,66240,,13th Gen Intel Core i5 1334U,10 Cores (2P + 8E),12,16,512GB,Intel UHD Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb0184AXGaming Laptop,66240,64.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,8 ,512GB,4GB AMD Radeon RX 6500M Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0572TU Laptop,66240,53.0,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa2090TX Gaming Laptop,66240,53.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,8 ,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 17-cm2027TX Gaming Laptop,66240,75.0,13th Gen Intel Core i7 13700HX,16 Cores (8P + 8E),24,16,1TB,8GB NVIDIA GeForce RTX 4060,17.3 inches, 2560 x 1440 pixels,Windows 11 OS
+HP Victus 15-FA1415TX  Gaming Laptop,66240,63.0,12th Gen Intel Core i7 12650H,10 Cores (6P + 4E),16,16,512GB,4GB NVIDIA GeForce RTX 3050A,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion Plus 14-ew0108TU Laptop,66240,59.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Pavilion Plus 14-ew0107TU Laptop,66240,57.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP 245 G9 Laptop,66240,60.0,5th Gen AMD Ryzen 5 5625U,Hexa Core,12,16,512GB,AMD Radeon Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP EliteBook 840 G10 Business Laptop,66240,56.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,32,1TB,‎Intel Iris Xe Graphics,15.6 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook Firefly 14 G11 A1VL1PT Laptop,66240,75.0,Intel Core Ultra 7 Series 1 155H,16 Cores (6P + 8E + 2LP-E),22,32,1TB,4GB NVIDIA RTX A500 Laptop GP,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP 240 G9 6S6U4EA Notebook Laptop,66240,60.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated Intel Iris X Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1346TX Gaming Laptop,66240,57.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP ZBook Firefly 14 G10 8F6D3PA Workstation Laptop,66240,68.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,512GB,4GB NVIDIA RTX A500,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP 15-fd1197TU Laptop,66240,61.0,Intel Core Ultra 5 Series 1 125H,14 Cores (4P + 8E + 2LP-E),18,16,1TB,Intel Integrated Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15-fd0063TU Laptop,66240,,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1274TX Gaming Laptop,66240,68.0,13th Gen Intel Core i7 13620H,10 Cores (6P + 4E),16,16,512GB,6GB NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 16-R0327TX Gaming Laptop,66240,68.0,13th Gen Intel Core i5 13500HX,14 Cores (6P + 8E),20,16,512GB,6GB NVIDIA GeForce RTX 3050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1276TX Gaming Laptop,66240,66.0,13th Gen Intel Core i7 13620H,10 Cores (6P + 4E),16,16,512GB,8GB NVIDIA GeForce RTX 4060,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-xd0017AX Gaming Laptop,66240,,7th Gen AMD Ryzen 7 7840HS,Octa Core,16,32,1TB,8GB NVIDIA GeForce RTX 4060,16.1 inches, 1080 x 1920 pixels,Windows 11 OS
+HP Victus 15-fa1332tx Gaming Laptop,66240,64.0,13th Gen Intel Core i7 13620H,10 Cores (6P + 4E),16,16,1TB,6GB NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1312TX Gaming Laptop,66240,64.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,8 ,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-wf0148TX Gaming Laptop,66240,77.0,13th Gen Intel Core i9 13900HX,24 Cores (8P + 16E),32,16,1TB,8GB NVIDIA GeForce RTX 4060,16.1 inches, 2560 x 1440 pixels,Windows 11 OS
+HP Victus 15-fa0444TX Gaming Laptop,66240,59.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,16,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1227TX Gaming Laptop,66240,61.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,16,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1317TX Gaming Laptop,66240,62.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,1TB,6GB NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa0186TX Gaming Laptop,66240,62.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,16,1TB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 14-fb0089TX Gaming Laptop,66240,77.0,Intel Core Ultra 7 Series 1 155H,16 Cores (6P + 8E + 2LP-E),22,16,1TB,8GB NVIDIA GeForce RTX 4060,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP Envy x360 ‎14-fc0100TU Laptop,66240,73.0,Intel Core Ultra 7 155U,12 Cores (2P + 8E + 2LP-E),14,32,1TB,Integrated Intel Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Omen Transcend 14-fb0007TX Gaming Laptop,66240,74.0,Intel Core Ultra 7 Series 1 155H,16 Cores (6P + 8E + 2LP-E),22,16,1TB,8GB NVIDIA GeForce RTX 4060,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP Pavilion 15-eg3032TU Laptop,66240,64.0,13th Gen Intel Core i7 1360P,12 Cores (4P + 8E),16,16,512GB,Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1216TX Gaming Laptop,66240,62.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-xd0010AX Gaming Laptop,66240,75.0,7th Gen AMD Ryzen 7 7840HS,Octa Core,16,16,1TB,6GB NVIDIA GeForce RTX 4050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 15 15-eg2124TU Laptop,66240,,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,12,512GB,Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 16-r0076TX Gaming Laptop,66240,68.0,13th Gen Intel Core i5 13500HX,14 Cores (6P + 8E),20,16,512GB,6GB NVIDIA GeForce RTX 4050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 16-r0075TX Gaming Laptop,66240,68.0,13th Gen Intel Core i5 13500HX,14 Cores (6P + 8E),20,16,512GB,6GB NVIDIA GeForce RTX 4050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion Plus ‎16-ab0456TX Laptop,66240,72.0,13th Gen Intel Core i7 13700H,14 Cores (6P + 8E),20,16,1TB,6GB NVIDIA GeForce RTX 3050,16 inches, 2560 x 1600 pixels,Windows 11 OS
+HP Victus 15-fb0157AX Gaming Laptop,66240,65.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,8 ,512GB,4GB AMD Radeon RX 6500M,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion Plus ‎14-ey0789AU Laptop,66240,69.0,7th Gen Amd Ryzen 7 7840H,Octa Core,16,16,1TB,AMD Radeon 780M Graphics,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP Victus 16-s0094AX Gaming Laptop,66240,73.0,7th Gen AMD Ryzen 7 7840HS,Octa Core,16,16,1TB,6GB NVIDIA GeForce RTX 3050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb1015AX Gaming Laptop,66240,66.0,7th Gen Amd Ryzen 5 7535HS,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb0150AX Gaming Laptop,66240,68.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,16,512GB,4GB AMD Radeon RX 6500M Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-FB0142AX Gaming Laptop,66240,68.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,16,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1064TX Gaming Laptop,66240,68.0,13th Gen Intel Core i7 13700H,14 Cores (6P + 8E),20,16,512GB,6GB NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-wf0052TX Gaming Laptop,66240,70.0,13th Gen Intel Core i5 13500HX,14 Cores (6P + 8E),20,16,512GB,6GB NVIDIA GeForce RTX 4050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-wd0770TX Gaming Laptop,66240,68.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,6GB NVIDIA GeForce RTX 4050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb0134AX Gaming Laptop,66240,65.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,16,512GB,4GB AMD Radeon RX 6500M Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-wf0055TX Gaming Laptop,66240,72.0,13th Gen Intel Core i7 13700HX,16 Cores (8P + 8E),24,16,512GB,8GB NVIDIA GeForce RTX 4060,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 16-D0314TX Gaming Laptop,66240,71.0,11th Gen Intel Core i5 11400H ,Hexa Core,12,16,512GB,4GB NVIDIA GeForce GTX 1650,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP ZBook Studio G9 WUXGA 16 Workstation Laptop,66240,,12th Gen Intel Core i9 12900H,14 Cores (6P + 8E),20,32,1TB,16GB NVIDIA GeForce RTX 3080 Ti ,16 inches,,Windows 11 OS
+HP ZBook Studio G9 16 WUXGA Workstation Laptop,66240,78.0,12th Gen Intel Core i7 12700H ,14 Cores (6P + 8E),20,16,1TB,6GB NVIDIA GeForce RTX 3060,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Pavilion Plus ‎14-eh1047TU Laptop,66240,66.0,13th Gen Intel Core i7 13700H,14 Cores (6P + 8E),20,16,512GB,Intel Integrated Iris Xe,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP Victus 15-fb0131AX Gaming Laptop,66240,61.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,8 ,512GB,4GB AMD Radeon RX 5600M ,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Elite Dragonfly G3 6Y036PA Laptop,66240,72.0,12th Gen Intel Core i7 1265U,10 Cores (2P + 8E),12,32,1TB,Intel Iris Xe Graphics,13.5 inches, 1280 x 1080 pixels,Windows 11 OS
+HP Victus 15-Fa0117TX Laptop,66240,66.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,16,512GB,4GB NVIDIA GeForce GTX 1650,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Envy x360 15-ew0043TU 2-in-1 Laptop,66240,68.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14s-dq2649TU Laptop,66240,55.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,512GB,Intel Integrated UHD,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-du3612TU Laptop,66240,59.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,1TB,256GB SSD,Intel Integrated UHD,,"15.6 inches, 1920 x 1080 pixels"
+HP ProBook 640 G8 Business Laptop,66240,62.0,11th Gen Intel Core i5 1145G7,Quad Core,8,8 ,512GB,Intel Integrated ,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP ProBook 440 G8 Laptop,66240,53.0,11th Gen Intel Core i5 1135G7,Quad Core,8,8 ,512GB,Intel Iris Xe Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP Omen 16-n0049AX Gaming Laptop,66240,57.0,6th Gen AMD Ryzen 7  6800H,Octa Core,16,16,512GB,4GB NVIDIA GeForce RTX 3050Ti,16 inches, 1920 x 1080 pixels,Windows 11 OS
+HP ProBook 450 G8 4Y7G3PA Laptop,66240,57.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,256GB,Intel UHD Graphics,15.6 inches, 1366 x 768 pixels,Windows 10 OS
+HP 430 G8 366B1PA Business Laptop,66240,,Processor: Intel Core i7-1165G7 (up to 4.7 GHz with Intel Turbo Boost Technology,Memory &amp; Storage: 8 GB DDR4-3200 MHz RAM (1 x 8GB)</li,,St,Display:,Graphics &amp; Networking: Intel Iris X Graphics,Intel AX201 Wi-Fi 6 (2x2) and Bluetooth 5 combo,,Ports: 2 SuperSpeed USB Type-A 5Gbps signaling rate (1 charging
+HP Envy x360 13-bf0078TU Laptop,66240,59.0,12th Gen Intel Core i5 1230U,10 Cores (2P + 8E),12,8 ,512GB,Intel Iris X Graphics,13.3 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 255 G8 6V2R7PA Laptop,66240,,3rd Gen AMD Athlon  3050U,Dual Core,2,4 ,1TB,AMD Radeon Graphics,15.6 inches, 1366 x 768 pixels,DOS OS
+HP Pavilion 15-eg2039TU Laptop,66240,63.0,12th Gen Intel Core i7 1260P,12 Cores (4P + 8E),16,16,1TB,Intel Integrated Iris Xe,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 16-e0352AX Gaming Laptop,66240,65.0,5th Gen AMD Ryzen 5 5600H ,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce GTX 1650,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion Gaming 15-DK1520TX Laptop,66240,64.0,10th Gen Intel Core i5 10300H,Quad Core,8,8 ,512GB,4GB NVIDIA GeForce GTX 1650,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 15-eh2025au Laptop,66240,55.0,5th Gen AMD Ryzen 5 5625U,Hexa Core,12,8 ,512GB,AMD Radeon Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-du3519TX Laptop,66240,61.0,11th Gen Intel Core i5 1135G7,Quad Core,8,8 ,512GB,2GB NVIDIA GeForce MX450,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Envy x360 13-ay1037AU Laptop,66240,68.0,5th Gen AMD Ryzen 7  5800U,Octa Core,16,16,1TB,AMD Radeon Graphic,13.3 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 16-e0351AX Gaming Laptop,66240,65.0,5th Gen AMD Ryzen 7 5800H ,Octa Core,16,16,512GB,4GB NVIDIA GeForce RTX 3050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP EliteBook 850 G6 Laptop,66240,59.0,8th Gen Intel Core i5 8265U,Quad Core,8,16,1TB,2GB AMD Radeon RX 550,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 240 G8 Laptop,66240,,11th Gen Intel Core i5 1135G7 ,Quad Core,8,8 ,512GB,Intel Integrated,14 inches, 1366 x 768 pixels,Windows 10 OS
+HP Pavilion 14-ec1003AU Laptop,66240,53.0,5th Gen AMD Ryzen 5 5625U ,Hexa Core,12,8 ,512GB,AMD Radeon Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 430 G8 364C5PA Business Laptop,66240,59.0,11th Gen Intel Core i5 1135G7 ,Quad Core,8,8 ,512GB,Intel Iris Xe Graphics,13.3 inches, 1366 x 768 pixels,Windows 10 OS
+HP 15s- fq4021TU Laptop,66240,56.0,11th Gen Intel Core i5 1155G7,Quad Core,8,8 ,512GB,Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 15-EC2146AX Gaming Laptop,66240,63.0,5th Gen AMD Ryzen 7  5800H,Octa Core,16,16,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-du3563TU Laptop,66240,51.0,11th Gen Intel Core i3 1125G4,Quad Core,8,8 ,512GB,Intel Integrated UHD,15.6 inches, 1366 x 768 pixels,Windows 11 OS
+HP 14s-fq1083AU Laptop,66240,51.0,5th Gen AMD Ryzen 7  5700U,Octa Core,16,8 ,512GB,AMD Radeon AMD,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Pavilion 14-dv0543TU Laptop,66240,53.0,11th Gen Intel Core i5 1135G7,Quad Core,8,8 ,512GB,Intel Integrated Iris Xe,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Pavilion 15-DK2100TX Gaming Laptop,66240,68.0,11th Gen Intel Core i5 11300H,Quad Core,8,8 ,1TB,256GB SSD,4 GB NVIDIA GeForce GTX 1650,,"15.6 inches, 1920 x 1080 pixels"
+HP Victus 16-e0075AX Gaming Laptop,66240,62.0,5th Gen AMD Ryzen 5  5600H ,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce GTX 1650 ,16.1 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Victus 16-e0078AX Gaming Laptop,66240,69.0,5th Gen AMD Ryzen 7 5800H ,Octa Core,16,16,512GB,4GB NVIDIA GeForce RTX 3050Ti ,16.1 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Pavilion Gaming 15-DK1511TX Laptop,66240,64.0,10th Gen Intel Core i7 10870H,Octa Core,16,16,512GB,4GB NVIDIA GeForce GTX 1650 Ti,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Pavilion 15-ec1512AX Gaming Laptop,66240,66.0,4th Gen AMD Ryzen 7  4800H,Octa Core,16,16,1TB,256GB SSD,4 GB NVIDIA GeForce 1650Ti,,"15.6 inches, 1920 x 1080 pixels"
+HP ProBook 440 G8 28K89UT Laptop,66240,,11th Gen Intel Core i7 1165G7,Quad Core,8,8 ,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,Windows 10  OS
+HP Zbook Firefly 15 G7 1Y5X2UT Laptop,66240,53.0,10th Gen Intel  Core i7 10510U ,Quad Core,8,16,1TB, Intel UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 10  OS
+HP 14s-dq2101TU Laptop,66240,,11th Gen Intel Core i3 1115G4 ,Dual Core,4,8 ,256GB,Intel UHD Graphics,14 inches, 1366 x 768 pixels,Windows 10  OS
+HP 15s-dr3500TX Laptop,66240,54.0,11th Gen Intel Core i5 1135G7 ,Quad Core,8,8 ,512GB,2GB NVIDIA GeForce MX350,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 11A-NA0002MU Chromebook,66240,,MediaTek MT8183 MT8183,Octa Core</li,,4 ,MediaTek,"11.6inches, 1366x768pixels, Touch Screen",Chrome OS,,Chrome OS
+HP 340S G7 9EJ44PA Laptop,66240,51.0,10th Gen Intel Core i5 1035G1 ,Quad Core,8,8 ,512GB,Intel UHD Graphics,14 inches, 1366 x 768 pixels,Windows 10 OS
+HP 15s-FQ2072TU Laptop,66240,51.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Pavilion 14-dv0084TX Laptop,66240,56.0,11th Gen Intel Core i5 1135G7 ,Quad Core,8,16,512GB,2GB NVIDIA GeForce MX450,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 440 G7 9KW88PA Notebook,66240,57.0,10th Gen Intel Core i7 10510U ,Quad Core,8,8 ,512GB,Intel UHD Graphics 620,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15s-du3060TX Laptop,66240,61.0,11th Gen Intel Core i5 1135G7,Quad Core,8,8 ,1TB,2GB NVIDIA GeForce MX350,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 440 G7 9KW91PA Laptop,66240,55.0,10th Gen Intel Core i5 10210U ,Quad Core,8,8 ,512GB,Intel Integrated 620,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15s-du3038TU Laptop,66240,53.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,1TB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15s-gy0003AU Laptop,66240,,AMD Athlon Silver 3020e ,Dual Core</li,,4 ,1TB,AMD Radeon,15.6 inches, 1366 x 768 pixels,Windows 10  OS
+HP Elitebook 830 G7,66240,57.0,10th Gen Intel  Core i7 10510U,Quad Core,8,8 ,512GB,Intel UHD 620,13.3 inches, 1920 x 1080 pixels,Windows 10 OS
+HP EliteBook 830 G6,66240,,8th Gen Intel Core i5 8265U,Quad Core,8,8 ,256GB,Integrated UHD Graphics 620,13.3 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Elitebook 840 G7,66240,54.0,10th Gen Intel Core i5 10210U,Quad Core,8,8 ,256GB,Intel UHD 620,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15s-dr1000tu Laptop,66240,59.0,10th Gen Intel Core i5 10210U ,Quad Core,8,8 ,1TB,256GB SSD,Intel UHD Graphics,,"15.6 inches, 1920 x 1080 pixels"
+HP 245 G7,66240,,3rd Gen AMD Ryzen 5 3500u,Quad Core,8,4 ,1TB,AMD Radeon Vega,14 inches, 1366 x 768 pixels,DOS OS
+HP EliteBook 840 G7,66240,51.0,10th Gen Intel Core i7 10510U,Quad Core,8,8 ,512GB,Intel UHD Graphics 620,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP ZBook 14u G6,66240,61.0,8th Gen Intel Core i7 8565U,Quad Core,8,8 ,512GB,4GB AMD Radeon Pro WX 3200,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Omen 15-ek0025tx Laptop,66240,60.0,10th Gen Intel Core i5 10300H,Quad Core,8,8 ,512GB,4GB NVIDIA Geforce GTX 1650,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 348 G7 Laptop,66240,,8th Gen Intel Core i3 8130U,Dual Core,4,8 ,1TB,Intel UHD Graphics 620,14 inches, 1920 x 1080 pixels,Windows 10  OS
+HP 15s-du1065TU Laptop,66240,54.0,10th Gen Intel Core i5 10210U,Quad Core,8,4 ,512GB,Intel UHD,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 17-by1061st Laptop,66240,51.0,8th Gen Intel Core i3 8145U,Dual Core,4,8 ,1TB,Intel UHD 620,17.3 inches, 1600 x 900 pixels,Windows 10 OS
+HP Pavilion x360 14-dh1179TU Laptop,66240,61.0,10th Gen Intel Core i5 10210U,Quad Core,8,8 ,512GB,Intel Integrated UHD,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 14s-cr2000TX Laptop,66240,63.0,10th Gen Intel Core i5 10210U,Quad Core,8,8 ,1TB,256GB SSD,2 GB AMD Radeon 530,,"14 inches, 1920 x 1080 pixels"
+HP 15-ec0101AX Gaming Laptop,66240,57.0,AMD Ryzen 5  3550H,Quad Core,8,8 ,1TB,4GB NVIDIA Geforce GTX 1650,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP ZBook Studio x360 G5,66240,78.0,8th Gen Intel Core i7 8850H,Hexa Core,12,16,1TB,4GB Quadro P1000,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15-di0001TU Laptop,66240,,Intel  Pentium Gold 4417U,Dual Core,4,4 ,1TB,Intel HD Graphics 610,15.6 inches, 1366 x 768 pixels,Windows 10 OS
+HP Notebook 14-ck0155tu Laptop,66240,50.0,7th Gen Intel Core i3 7020U,Dual Core,4,8 ,1TB,Intel HD 620,14 inches, 1366 x 768 pixels,Windows 10 OS
+HP EliteBook x360 1030 G3,66240,59.0,8th Gen Intel Core i5 8250U,Quad Core,8,8 ,256GB,Intel UHD Graphics 620,13.3 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Chromebook x360 12b-ca0006TU Laptop,66240,,Intel Celeron N4000 N4000,Dual Core,2,4 ,64GB,Intel UHD Graphics 600,12 inches, 1366 x 912 pixels,Chrome OS
+HP 15q-ds0043tu,66240,54.0,7th Gen Intel Core i3 7020U,Dual Core,4,4 ,1TB,Intel HD 620,15.6 inches, 1366 x 768 pixels,Windows 10 OS
+HP 15-db0244au Laptop,66240,,AMD A9-9425 9425,Dual Core</li,,4 ,1TB,AMD Radeon R5,15.6 inches, 1366 x 768 pixels,"15.6 inches, 1366 x 768 pixels"
+HP EliteBook 830 G6,66240,,8th Gen Intel Core i5 8265U,Quad Core,8,8 ,512GB,Integrated UHD Graphics 620,13.3 inches, 1920 x 1080 pixels,Windows 10 OS
+HP ProBook 430 G6,66240,63.0,8th Gen Intel Core i5 8265U,Quad Core,8,8 ,1TB,128GB SSD,Integrated UHD 620,,"13.3 inches, 1920 x 1080 pixels"
+HP Notebook 14-dk0093au,66240,,2.1GHz AMD Ryzen 5 3500U processor,8GB DDR4 RAM</li,,1T,14-inch,Windows 10 Home operating system,,,"14-inch screen, Radeon Vega 8 Graphics"
+HP ProBook 440 G6,66240,60.0,8th Gen Intel Core i5 8265U,Quad Core,8,8 ,1TB,Integrated UHD 620,14 inches, 1366 x 768 pixels,Windows 10 OS
+HP EliteBook 840 G6,66240,57.0,8th Gen Intel Core i5 8265U,Quad Core,8,8 ,512GB,2GB AMD Radeon Radeon,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP EliteBook 840 G6,66240,56.0,8th Gen Intel Core i7 8565U,Quad Core,8,16,1TB,2GB Integrated UHD Graphics 620,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP ProBook 430 G6,66240,69.0,8th Gen Intel Core i7 8565U,Quad Core,8,16,1TB,128GB SSD,Intel Integrated UHD 620,,"13.3 inches, 1920 x 1080 pixels"
+HP EliteBook 840 G6,66240,,8th Gen Intel Core i5 8265U,Quad Core,8,8 ,256GB,UHD Graphics 620,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Probook 440 G6 Laptop,66240,,8th Gen Intel Core i7 8565U,Quad Core,8,8 ,1TB,Integrated,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15s-du0093TU Laptop,66240,55.0,8th Gen Intel Core i3 8145U,Dual Core,4,8 ,1TB,Intel Integrated UHD 620,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15g-dr0008tu Laptop,66240,,7th Gen Intel Core i3 7100U,Dual Core,4,4 ,1TB,Intel HD 620,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP ZBook 14U G6 8PW97PA Laptop,66240,54.0,8th Gen Intel Core i5 8265U,Quad Core,8,8 ,256GB,Intel UHD Graphics 620,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP ZBook 15 G6 Laptop,66240,68.0,9th Gen intel Core i7 9750H,Hexa Core,12,16,512GB,Intel UHD Graphics 630,15.6 inches, 3840 x 2160 pixels,Windows 10 OS
+HP Omen 15-dh0136TX,66240,73.0,9th Gen Intel Core i7 9750H,Hexa Core,12,16,1TB,512GB SSD,6 GB NVIDIA GeForce GTX 1660 Ti,,"15.6 inches, 1920 x 1080 pixels"
+HP Pavilion 15-dk0045tx,66240,69.0,9th Gen Intel Core i5 9300H,Quad Core,8,8 ,1TB,256GB SSD,4 GB NVIDIA Geforce GTX 1050,,"15.6 inches, 1920 x 1080 pixels"
+HP Omen 15-dc1093TX Gaming Laptop,66240,71.0,9th Gen Intel Core i7 9750H,Hexa Core,12,8 ,1TB,256GB SSD,4 GB NVIDIA Geforce GTX 1650,,"15.6 inches, 1920 x 1080 pixels"
+HP Elitebook 830 G5,66240,65.0,8th Gen Intel Core i7 8550U,Quad Core,8,8 ,512GB,Intel UHD 620,13.3 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15-da1041tu,66240,,8th Gen Intel Core i5 8265U ,Quad Core,8,8 ,1TB,Intel UHD 620 Graphics ,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 14s-cf0055tu,66240,,7th Gen Intel Core i3 7100U,Dual Core,4,4 ,1TB,Intel Integrated HD 620,14 inches, 1920 x 1080 pixels,Windows 10  OS
+HP 15-bs674tx,66240,53.0,7th Gen Intel Core i3 7020U,Dual Core,4,8 ,1TB,Intel HD 620,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP ZBook 15 G5,66240,68.0,8th Gen Intel Core i7 8850H,Hexa Core,12,16,1TB,4GB Quadro P2000,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15-bs192od,66240,57.0,8th Gen Intel Core i7 8550U,Quad Core,8,8 ,1TB,Intel UHD 620,15.6 inches, 1366 x 768 pixels,"15.6 inches, 1366 x 768 pixels, Touch Screen"
+HP 15-da0352tu,66240,51.0,7th Gen Intel Core i3 7020U,Dual Core,4,4 ,1TB,Intel HD Graphics 620,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Pavilion 14-ce1000tu,66240,55.0,8th Gen Intel Core i5 8265U,Quad Core,8,8 ,256GB,Intel UHD 620,14 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15-db0186au,66240,53.0,AMD Ryzen 3 2200U,Dual Core,4,4 ,1TB,AMD Radeon Vega 6,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15-bs168cl,66240,54.0,8th Gen Intel Core i5 8250U,Quad Core,8,8 ,2TB,Intel UHD 620,15.6 inches, 1920 x 1080 pixels,"15.6 inches, 1920 x 1080 pixels, Touch Screen"
+HP Pavilion 14-CE1001TX,66240,62.0,8th Gen Intel Core i5 8265U,Quad Core,8,8 ,1TB,128GB SSD,2 GB NVIDIA GeForce MX150,,"14 inches, 1920 x 1080 pixels"
+HP Elitebook 745 G3,66240,,AMD A10 Pro-8700B,Quad Core</li,,8 ,256GB,AMD Radeon R6,14 inches, 1366 x 768 pixels,"14 inches, 1366 x 768 pixels"
+HP 15-da0327tu,66240,,7th Gen Intel Core i3 7100U,Dual Core,4,4 ,1TB,Intel HD 620,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 15q-ds0009TU,66240,,8th Gen Intel Core i5 8250U,Quad Core,8,8 ,1TB,Intel Integrated UHD 620,15.6 inches, 1920 x 1080 pixels,DOS OS
+HP ProBook 440 G3,66240,53.0,6th Gen Intel Core i7 6500U,Dual Core,4,16,1TB,Intel HD 520,14 inches, 1366 x 768 pixels,Windows 10 OS
+HP Pavilion x360 14-ba153tx Laptop,66240,65.0,8th Gen Intel Core i7 8550U,Quad Core,8,8 ,1TB,8GB SSD,4 GB NVIDIA Geforce MX130,,"14 inches, 1920 x 1080 pixels, Touch Screen"
+HP 15-bw526au Laptop,66240,,AMD APU E2,Dual Core,4,4 ,500GB,AMD Radeon ,15.6 inches, 1366 x 768 pixels,Windows 10 OS
+HP Pro Book 440 G3,66240,,Processor : Core i3,System Memory : 4 GB</li,,HD,More,,,,HDD Capacity : 500 GB
+HP 15-BS541TU,66240,,6th Gen Intel Core i3 6006U,Dual Core,4,4 ,1TB,Intel Integrated HD Graphics 520,15.6 inches, 1366 x 768 pixels,Windows 10 OS
+HP 15-BS579TX,66240,,6th Gen Intel Core i3 6006U,Dual Core,4,8 ,1TB,2GB AMD Radeon 520 Graphics,15.6 inches, 1366 x 768 pixels,DOS OS
+HP 245 G4 Laptop,66240,,AMD A8-7410,Quad Core</li,,4 ,500GB,AMD Radeon R5,14 inches, 1366 x 768 pixels,Windows 10 OS
+HP Pavilion 15-AU628TX,66240,55.0,7th Gen Intel Core i7 7500U,Dual Core,4,8 ,1TB,4GB NVIDIA GeForce 940MX,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP 240 G5 Laptop,66240,,,,,,,,,,
+HP 14-am042TX,66240,,,,,,,,,,
+HP 15-ay020tu,66240,,5th Gen Intel Core i3 5005U,Dual Core,4,4 ,1TB,Intel Integrated HD5500,15.6 inches, 1366 x 768 pixels,Windows 10 OS
+HP 15-AY019TU,66240,,5th Gen Intel Core i3 5005U,Dual Core,4,4 ,1TB,Intel HD Graphics 5500,15.6 inches, 1366 x 768 pixels,DOS OS
+HP 15-AY007TX Notebook,66240,,6th Gen Intel Core i5,4 GB DDR4 RAM</li,,1 ,2GB,"15.6inches, 1920x1080pixels",DOS OS,,
+HP 15-ac646TX,66240,,4th Gen Intel Core i5,8 GB DDR3 RAM</li,,1 ,2GB,"15.6inches, 1366x768pixels",Windows 10 OS,,Windows 10 OS
+HP 240 G4,66240,,,,,,,,,,
+HP Probook 4420S Laptop,66240,,Intel Core i3 370M,3 GB DDR3 RAM</li,,32,Intel,"13.86inches, 1366x768pixels",Windows 7 OS,,Windows 7 OS
+HP Pavilion 15-ab221TX Notebook,66240,50.0,5th Gen Intel Core i5 i5-5200U,8 GB DDR3 RAM</li,,1 ,2GB,"15.6inches, 1920x1080pixels",Windows 10 OS,,
+HP Pavilion 15-ab219TX Notebook,66240,,5th Gen Intel Core i5 5200U,Dual Core,4,8 ,1TB,2GB NVIDIA GeForce 940M,15.6 inches,,Windows 10 OS
+HP 15-ac101TU,66240,,5th Gen Intel Core i3 5005U,Dual Core,4,4 ,1TB,Intel HD Graphics 5500,15.6 inches,,
+HP 15-ac101TU,66240,,5th Gen Intel Core i3 5005U,Dual Core,4,4 ,1TB,Intel HD Graphics 5500,15.6 inches,,
+HP 15-ac024TX,66240,,4th Gen Intel Core i3 4005U,Dual Core,4,4 ,1TB,2GB AMD Radeon R5 Series M330 Graphics,15.59 inches,,DOS OS
+HP 14-R212TX Notebook,66240,,,,,,,,,,
+HP Pavilion 15-ab032TX,66240,54.0,5th Gen Intel Core i5 5200U,Dual Core,4,8 ,1TB,2GB NVIDIA Geforce 940M,15.6 inches, 1920 x 1080 pixels,Windows 8 OS
+HP Pro Book 440 G3,66240,,,,,,,,,,
+HP Pavilion 14-V226TX Laptop,66240,,,,,,,,,,
+HP 13-C019TU Stream Notebook,66240,,4th Gen Intel Celeron Dual Core N2840,Dual Core</li,,2 ,32GB,Intel HD Graphics,13.3 inches, 1366 x 768 pixels,Windows 8 OS
+HP Envy 4-1104TX,66240,,Intel Core i5 3317U,4 GB DDR3 RAM</li,,50,2GB,"13.86inches, 1366x768pixels",Windows 8 OS,,Windows 8 OS
+HP Pavilion 15-n213TU Notebook PC,66240,,,,,,,,,,
+HP 1000-1b10AU Notebook,66240,,AMD APU Dual Core A4-3330MX,Dual Core</li,,2 ,500GB,AMD Radeon HD 6480G Graphics,14 inches, 1366 x 768 pixels,DOS OS
+HP 4530s ProBook,66240,,,,,,,,,,
+HP 248 G1 Series,66240,,4th Gen Intel Core i5 4210U,Dual Core,4,4 ,1TB,Intel HD Graphics 4400,14.1 inches, 1366 x 768 pixels,Windows 8 OS
+HP 15-r032TX Notebook,66240,,4th Gen Intel Core i3 4005U,Dual Core,4,4 ,500GB,2GB NVIDIA GeForce 820M,15.6 inches, 1366 x 768 pixels,Windows 8 OS
+HP G4-1303AU Notebook,66240,,AMD APU Dual Core 3330MX,Dual Core</li,,2 ,500GB,AMD Radeon HD 6480G Graphics,14 inches, 1366 x 768 pixels,DOS OS
+HP Compaq 15-s009TU Notebook,66240,,4th Gen Intel Core i3 4005U,Dual Core,4,4 ,500GB,Intel HD Graphics 4400,15.6 inches, 1366 x 768 pixels,Windows 8 OS
+HP 15-r007TX Notebook,66240,,4th Gen Intel Core i5 4210U,Dual Core,4,4 ,1TB,2GB NVIDIA GeForce GT 820M,15.6 inches, 1366 x 768 pixels,DOS OS
+HP 15-p029TX Notebook,66240,,4th Gen Intel Core i3 4030U,Dual Core,4,4 ,1TB,2GB NVIDIA GeForce GT 830M,15.6 inches, 1366 x 768 pixels,Windows 8 OS
+HP 15-r036TU Notebook,66240,,Intel Pentium N3530,Quad Core,4,4 ,500GB,Intel HD Graphics,15.6 inches, 1366 x 768 pixels,Windows 8 OS
+HP Envy 15-j133TX Laptop,66240,,Intel Core i7 4702MQ,8 GB DDR3 RAM</li,,1 ,4GB,"15.6inches, 1366x768pixels",Windows 8 OS,,
+HP 15-d103tx Notebook,66240,,Intel Core i5 4200M,4 GB DDR3 RAM</li,,50,2GB,"15.6inches, 1366x768pixels",DOS OS,,DOS OS
+HP Pavilion 15-p077TX Notebook,66240,50.0,4th Gen Intel Core i5 4210U,Dual Core,4,8 ,1TB,2GB NVIDIA GeForce GT 840M,15.6 inches, 1366 x 768 pixels,Windows 8 OS
+HP Pavilion M6-1104TX Laptop,66240,,Intel Core i5 3210M,8 GB DDR3 RAM</li,,1 ,2GB,"15.6inches, 1366x768pixels",Windows 8 OS,,
+HP Pavilion 15-g004AU Laptop,66240,,AMD APU Dual Core E1-2100,Dual Core</li,,2 ,500GB,AMD Radeon HD 8210,15.6 inches, 1366 x 768 pixels,Windows 8 OS
+HP Pavilion G6-2302AX Laptop,66240,,AMD APU Dual Core 4300M,Dual Core</li,,4 ,500GB,1.5GB 512 MB AMD Radeon HD 7420G (Integrated) and 1 GB ATI Mobility Radeon HD 7670M (De…,15.6 inches, 1366 x 768 pixels,Windows 8 OS
+HP 650 C0S24PA Laptop,66240,,2nd Gen Intel Core i3 2310M,2 GB DDR3 RAM</li,,50,Intel,"15.6inches, 1366x768pixels",DOS OS,,DOS OS
+HP Pavilion 15-E017TX Laptop,66240,,3rd Gen Intel Core i3 3110M,Dual Core,4,4 ,500GB,2GB AMD Mobility Radeon HD 8670M,15.6 inches, 1366 x 768 pixels,Windows 8 OS
+HP Pavilion 15-E039TX Laptop,66240,,3rd Gen Intel Core i5 3230M,4 GB DDR3 RAM</li,,1 ,2GB,"15.6inches, 1366x768pixels",Windows 8 OS,,Windows 8 OS
+HP Pavilion DV4-5009TX Laptop,66240,,2nd Gen Intel Core i5 2450M,6 GB DDR3 RAM</li,,64,2GB,"14inches, 1366x768pixels",Windows 7 OS,,
+HP 455 Laptop,66240,,AMD APU Dual Core E1-1200,Dual Core</li,,2 ,500GB,"14inches, 1366x768pixels",DOS OS,,DOS OS
+HP 431 Laptop,66240,,2nd Gen Intel Core i3 2310M,2 GB DDR3 RAM</li,,50,1GB,"14inches, 1366x768pixels",DOS OS,,DOS OS
+HP Pavilion G6-2301AX Laptop,66240,,AMD APU Quad Core 4500M,Quad Core</li,,4 ,500GB,2.5GB 512 MB AMD Radeon HD 7640G (Integrated) and 2 GB ATI Mobility Radeon HD 7670M (De…,15.6 inches, 1366 x 768 pixels,Windows 8 OS
+HP Pavilion 15-E015TX Laptop,66240,,3rd Gen Intel Core i5 3230M,4 GB DDR3 RAM</li,,1 ,1GB,"15.6inches, 1366x768pixels",Windows 8 OS,,Windows 8 OS
+HP Envy x360 14-fc0123TU Laptop,66240,55.0,Intel Core Ultra 5 125U,12 Cores (2P + 8E + 2LP-E),14,16,512GB,Integrated Intel Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP 250 G9 9S7M7AT Laptop,66240,,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,DOS OS
+HP ProBook 440 G9 9S6Y1AT Laptop,66240,54.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,DOS OS
+HP 240 G9 9Q9L9PA Laptop,66240,,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,8 ,512GB,‎Intel Graphics,14 inches, 1920 x 1080 pixels,DOS OS
+HP EliteBook 645 G9 Laptop,66240,59.0,5th Gen AMD Ryzen 5 5675U,Hexa Core,12,8 ,512GB,AMD Radeon Vega 7 Integrated Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 240 G10 ‎‎B10LWPT Business Laptop,66240,50.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,512GB,Intel UHD Graphics,14 inches, 1920 x 1080 pixels,DOS OS
+HP Envy x360 14-fa0108AU Laptop,66240,77.0,8th Gen AMD Ryzen 7 8840HS,Octa Core,16,32,1TB,AMD Radeon Graphics,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP Envy x360 14-fa0986AU Laptop,66240,74.0,8th Gen AMD Ryzen 7 8840HS,Octa Core,16,32,1TB,AMD Radeon Graphics,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP Envy 4-1104TU Ultrabook,66240,,3rd Gen Intel Core i5 3317U,4 GB DDR3 RAM</li,,50,Intel,"14inches, 1366x768pixels",Windows 8 OS,,
+HP Pavilion G4-1315AU Laptop,66240,,AMD APU Dual Core 3305M,Dual Core</li,,4 ,500GB,AMD Radeon HD 6480G,14 inches, 1366 x 768 pixels,DOS OS
+HP Envy M6-1214TX Laptop,66240,,3rd Gen Intel Core i5 3230M,8 GB DDR3 RAM</li,,1 ,2GB,"15.6inches, 1366x768pixels",Windows 8 OS,,
+HP 431 Laptop,66240,,2nd Gen Intel Core i3 2310M,2 GB DDR3 RAM</li,,50,1GB,"14inches, 1366x768pixels",DOS OS,,DOS OS
+HP 2000-2202TU Laptop,66240,,2nd Gen Intel Core i3 2328M,Dual Core,4,2 ,500GB,Intel HD Graphics 3000,15.6 inches, 1366 x 768 pixels,Windows 8 OS
+HP Pavilion G6-2009TX Laptop,66240,,2nd Gen Intel Core i3 2350M,4 GB DDR3 RAM</li,,50,2GB,"15.6inches, 1366x768pixels",Windows 7 OS,,
+HP 15-fd1279TU Laptop,66240,62.0,Intel Core Ultra 5 Series 1 125H,14 Cores (4P + 8E + 2LP-E),18,32,1TB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Envy x360 14-fc0123TU Laptop,66240,55.0,Intel Core Ultra 5 125U,12 Cores (2P + 8E + 2LP-E),14,16,512GB,Integrated Intel Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP 15-fc1038AU Laptop,66240,62.0,7th Gen AMD Ryzen 7 7735HS,Octa Core,16,16,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 240 G9 9Q9L9PA Laptop,66240,,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,8 ,512GB,‎Intel Graphics,14 inches, 1920 x 1080 pixels,DOS OS
+HP 250 G9 9S7M7AT Laptop,66240,,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,DOS OS
+HP ProBook 440 G9 9S6Y1AT Laptop,66240,54.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,DOS OS
+HP 15-fd0572TU Laptop,66240,53.0,13th Gen Intel Core i3 1315U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 240 G10 ‎‎B10LWPT Business Laptop,66240,50.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,512GB,Intel UHD Graphics,14 inches, 1920 x 1080 pixels,DOS OS
+HP Omen 17-cm2027TX Gaming Laptop,66240,75.0,13th Gen Intel Core i7 13700HX,16 Cores (8P + 8E),24,16,1TB,8GB NVIDIA GeForce RTX 4060,17.3 inches, 2560 x 1440 pixels,Windows 11 OS
+HP Envy x360 14-fa0108AU Laptop,66240,77.0,8th Gen AMD Ryzen 7 8840HS,Octa Core,16,32,1TB,AMD Radeon Graphics,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP Envy x360 14-fa0986AU Laptop,66240,74.0,8th Gen AMD Ryzen 7 8840HS,Octa Core,16,32,1TB,AMD Radeon Graphics,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP ZBook Firefly 14 inch G10A 8L8P5PA Laptop,66240,71.0,7th Gen AMD Ryzen 9 PRO 7940HS,Octa Core,16,16,1TB,AMD Radeon 780M Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP 245 G9 Laptop,66240,56.0,5th Gen AMD Ryzen 5 5625U,Hexa Core,12,8 ,512GB,AMD Radeon Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP 245 G9 Laptop,66240,60.0,5th Gen AMD Ryzen 5 5625U,Hexa Core,12,16,512GB,AMD Radeon Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP EliteBook 840 G10 Laptop,66240,52.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,512GB,‎Intel Iris Xe Graphics,15.6 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook Firefly 16 G9 6K386AV Workstation PC Laptop,66240,65.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,32,512GB,Intel Iris Xe Graphics,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP EliteBook 840 G10 Business Laptop,66240,56.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,32,1TB,‎Intel Iris Xe Graphics,15.6 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Victus 15-fa1372TX Gaming Laptop,66240,62.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,8 ,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 250 G9 9H226PT Laptop,66240,,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,DOS OS
+HP 247 G8 Laptop,66240,,3rd Gen AMD Ryzen 5 3500U,Quad Core,8,16,512GB,AMD Radeon Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP ZBook Firefly G9 905X7PA Laptop,66240,66.0,12th Gen Intel Core i7 1265U,10 Cores (2P + 8E),12,32,1TB,4GB NVIDIA RTX T550,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook Firefly 14 G11 A1VL1PT Laptop,66240,75.0,Intel Core Ultra 7 Series 1 155H,16 Cores (6P + 8E + 2LP-E),22,32,1TB,4GB NVIDIA RTX A500 Laptop GP,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP 240 G9 6S6U4EA Notebook Laptop,66240,60.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated Intel Iris X Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP ZBook Power G10 8F8Y9PA Laptop,66240,,13th Gen Intel Core i9 13900H,14 Cores (6P + 8E),20,32,1TB,Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 245 G9 9H243PT Laptop,66240,53.0,5th Gen AMD Ryzen 5 5625U,Hexa Core,12,8 ,512GB,AMD Radeon Graphics,14 inches, 1366 x 768 pixels,DOS OS
+HP Pavilion Plus 14-ew0115TU Laptop,66240,57.0,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook Firefly 14 G11 A1VR2PT Laptop,66240,70.0,Intel Core Ultra 7 Series 1 155H,16 Cores (6P + 8E + 2LP-E),22,16,1TB,Intel Arc Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Victus 15-FA1313TX Gaming Laptop,66240,61.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,16,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP ProBook 440 G9 9S706AT Laptop,66240,63.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 5-eg3131tu Laptop,66240,,13th Gen Intel Core i5 1335U,10 Cores (2P + 8E),12,8 ,256GB,Intel Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Envy x360 15-ew0023TX Laptop,66240,73.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,16,1TB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Chromebook x360 14b-cd0014TU Laptop,66240,,Intel Core i3 N305,Octa Core,8,8 ,256GB,Intel Integrated UHD,14 inches, 1366 x 768 pixels,Chrome OS OS
+HP Omen 16-wf0060TX Gaming Laptop,66240,77.0,13th Gen Intel Core i9 13900HX,24 Cores (8P + 16E),32,16,1TB,8GB NVIDIA GeForce RTX 4060,16.1 inches, 2560 x 1440 pixels,Windows 11 OS
+HP Omen 16-xd0017AX Gaming Laptop,66240,,7th Gen AMD Ryzen 7 7840HS,Octa Core,16,32,1TB,8GB NVIDIA GeForce RTX 4060,16.1 inches, 1080 x 1920 pixels,Windows 11 OS
+HP Envy x360 15-fh0031AU Laptop,66240,62.0,7th Gen AMD Ryzen 5 7530U,Hexa Core,12,16,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1332tx Gaming Laptop,66240,64.0,13th Gen Intel Core i7 13620H,10 Cores (6P + 4E),16,16,1TB,6GB NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-FA0888TX Gaming Laptop,66240,68.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,16,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 15-EH0035AU Laptop,66240,63.0,7th Gen AMD Ryzen 5 7530U,Hexa Core,12,16,1TB,AMD Radeon Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 14-fb0089TX Gaming Laptop,66240,77.0,Intel Core Ultra 7 Series 1 155H,16 Cores (6P + 8E + 2LP-E),22,16,1TB,8GB NVIDIA GeForce RTX 4060,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP Pavilion 15-eh3109AU Laptop,66240,64.0,7th Gen AMD Ryzen 7 7730U,Octa Core,16,16,1TB,AMD Radeon Vega 8 Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa1099TX Laptop,66240,64.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,16,512GB,4GB NVIDIA GeForce RTX 2050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP ZBook Firefly 14 G9 Workstation Laptop,66240,65.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,1TB,4GB NVIDIA RTX T550,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Victus 16-d0315TX Gaming Laptop,66240,71.0,11th Gen Intel Core i5 11400H,Hexa Core,12,16,512GB,4GB NVIDIA GeForce RTX 3050,16.1 inches, 1080 x 1920 pixels,Windows 11 OS
+HP Pavilion x360 14-ek0183TU Laptop,66240,62.0,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,512GB,Intel Integrated UHD,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 15-eh3039AU Laptop,66240,62.0,7th Gen AMD Ryzen 5 7530U,Hexa Core,12,16,512GB,AMD Radeon Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Spectre x360 14-eu0666TU Laptop,66240,75.0,Intel Core Ultra 7 Series 1 155H,16 Cores (6P + 8E + 2LP-E),22,32,1TB,Intel Arc Graphics,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP Pavilion 15 15-eg2124TU Laptop,66240,,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,12,512GB,Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 15-EG2119TU Laptop,66240,50.0,12th Gen Intel Core i5 1240P,12 Cores (4P + 8E),16,12,512GB,Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-wf0054TX Gaming Laptop,66240,73.0,13th Gen Intel Core i7 13700HX,16 Cores (8P + 8E),24,16,512GB,8GB NVIDIA GeForce RTX 4060,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 250 G9 95X38PA Laptop,66240,,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,DOS OS
+HP 250 G9 732B6PA Laptop,66240,60.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 250 G9 95X40PA Laptop,66240,,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,8 ,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,DOS OS
+‎HP ZHAN 99 Zbook Power G4-A 2023 Laptop,66240,64.0,6th Gen AMD Ryzen 5 6600H,Hexa Core,12,16,1TB,4GB ‎NVIDIA Quadro T600,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP ProBook 440 G8 7L375PA Notebook PC,66240,63.0,11th Gen Intel Core i7 1165G7 ,Quad Core,8,8 ,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-FR5012TU Laptop,66240,53.0,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,512GB,Intel UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-FA1098TX Laptop,66240,62.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,8 ,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-er2004AU Laptop,66240,54.0,5th Gen AMD Ryzen 7  5700U,Octa Core,16,16,512GB,AMD Radeon,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb1002AX Gaming Laptop,66240,65.0,7th Gen AMD Ryzen 5 7535HS,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-k0789TX Gaming Laptop,66240,69.0,12th Gen Intel Core i5 12500H,12 Cores (4P + 8E),16,16,512GB,4GB NVIDIA GeForce 3050,16.1 inches, 1920 x 1080 pixels,Windows 11  OS
+HP Omen 17-ck2011TX Gaming Laptop,66240,,13th Gen Intel Core i9 13900HX,24 Cores (8P + 16E),32,32,1TB,16GB NVIDIA GeForce RTX 4090 ,17.3 inches, 2560 x 1440 pixels,Windows 11  OS
+HP Omen 16-u0024TX Gaming Laptop,66240,,13th Gen Intel Core i9 13900HX,24 Cores (8P + 16E),32,32,2TB,8GB NVIDIA GeForce RTX 4070,16.1 inches, 2560 x 1600 pixels,Windows 11 OS
+HP Omen 16-u0021TX Gaming Laptop,66240,77.0,13th Gen Intel Core i7 13700HX,16 Cores (8P + 8E),24,16,1TB,8GB NVIDIA GeForce RTX 4060,16.1 inches, 2560 x 1600 pixels,Windows 11 OS
+HP Omen 17-ck2008AX Gaming Laptop,66240,,13th Gen Intel Core i7 13700HX,16 Cores (8P + 8E),24,16,1TB,12GB NVIDIA GeForce RTX 4080,17.3 inches, 2560 x 1440 pixels,Windows 11 OS
+HP 15s-fy5007TU Laptop,66240,57.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,512GB,Intel Integrated UHD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 240 14 G9 769N9PA Laptop,66240,,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,8 ,512GB,‎Intel Iris Plus Graphics,14 inches, 1920 x 1080 pixels,DOS OS
+HP ZBook Firefly 16 G9 6V2X7PA Workstation PC Laptop,66240,69.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,16,1TB,Intel Iris Xe Graphics,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Victus 15-fa1062TX Gaming Laptop,66240,66.0,13th Gen Intel Core i5 13500H,12 Cores (4P + 8E),16,16,512GB,6GB NVIDIA GeForce RTX 4050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb1017AX Gaming Laptop,66240,69.0,7th Gen Amd Ryzen 5 7535HS,Hexa Core,12,16,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb1016AX  Gaming Laptop,66240,63.0,7th Gen AMD Ryzen 5 7535HS,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 255 G9 841W6PA Laptop,66240,,3rd Gen AMD Ryzen 3 3250U,Dual Core,4,8 ,512GB,AMD Radeon Graphics,15.6 inches, 1366 x 768 pixels,DOS 3.0 OS
+HP 240 G9 ALC 7M658PA Laptop,66240,54.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,512GB,Intel Integrated,14 inches, 1366 x 768 pixels,DOS OS
+HP Victus 16-s0094AX Gaming Laptop,66240,73.0,7th Gen AMD Ryzen 7 7840HS,Octa Core,16,16,1TB,6GB NVIDIA GeForce RTX 3050,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 240 14 G9 769M4PA Laptop,66240,50.0,12th Gen Intel Core i3 1215U,Hexa Core (2P + 4E),8,8 ,512GB,Intel UHD Graphics,14 inches, 1366 x 768 pixels,DOS OS
+HP Omen 16-xf0043AX Gaming Laptop,66240,78.0,7th Gen AMD Ryzen 9 7940HS,Octa Core,16,32,1TB,8GB NVIDIA GeForce RTX 4070,16.1 inches, 2560 x 1440 pixels,Windows 11 OS
+HP Omen 16-wf0057TX Gaming Laptop,66240,74.0,13th Gen Intel Core i7 13700HX,16 Cores (8P + 8E),24,16,1TB,8GB NVIDIA GeForce RTX 4060,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb1018AX Gaming Laptop,66240,61.0,7th Gen Amd Ryzen 5 7535HS,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce RTX 2050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb0150AX Gaming Laptop,66240,68.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,16,512GB,4GB AMD Radeon RX 6500M Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-FB0142AX Gaming Laptop,66240,68.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,16,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Envy x360 13-bf0141tu Laptop,66240,63.0,12th Gen Intel Core i7 1250U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated Iris Xe,13.3 inches, 2880 x 1800 pixels,Windows 11 OS
+HP Victus 15-fb0134AX Gaming Laptop,66240,65.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,16,512GB,4GB AMD Radeon RX 6500M Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-u0003TX Gaming Laptop,66240,71.0,13th Gen Intel Core i7 13700HX,16 Cores (8P + 8E),24,16,512GB,6GB NVIDIA GeForce RTX 4050,16 inches, 2560 x 1600 pixels,Windows 11 OS
+HP 255 G8 Laptop,66240,,3rd Gen AMD Athlon  3050U,Dual Core,2,4 ,256GB,‎AMD Integrated,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 16-D0312TX Gaming Laptop,66240,69.0,11th Gen Intel Core i5 11400H ,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce GTX 1650,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 250 G9 821J6PA Laptop,66240,55.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,DOS OS
+HP ZBook Firefly 14 G9 Workstation 2023 Laptop,66240,63.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xᵉ Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook Firefly 16 G9 Workstation PC Laptop,66240,69.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,16,1TB,Intel Iris Xe Graphics,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook Firefly 16 G9 Workstation PC 2023 Laptop,66240,69.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook Firefly 16 G9 2023 WUXGA Laptop,66240,62.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,1TB,Intel Iris Xᵉ Graphics,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook 2023 Firefly G9 WUXGA 14 Workstation Laptop,66240,68.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,16,1TB,4GB NVIDIA RTX T550,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook Firefly 16 G9 2023 Workstation PC Laptop,66240,66.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,1TB,4GB NVIDIA RTX NVIDIA T550,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook 2023 Firefly G9 14 Workstation Laptop,66240,66.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,16,512GB,4GB NVIDIA RTX T550,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook Firefly 14 G9 2023 WUXGA Laptop,66240,64.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,16,1TB,Intel Iris Xᵉ Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook 2023 Firefly G9 WUXGA Workstation Laptop,66240,72.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,32,1TB,4GB NVIDIA RTX T550,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook Firefly 14 G9 2023 Laptop,66240,62.0,12th Gen Intel Core i5 1240P,12 Cores (4P + 8E),16,16,512GB,Intel Iris Xᵉ Graphics,14 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook Firefly 16 G9 2023 Workstation Laptop,66240,65.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,4GB NVIDIA RTX A500 ,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP 2023 ZBook Firefly 16 G9 WUXGA Workstation Laptop,66240,68.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,16,512GB,4GB NVIDIA RTX A500 ,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook Firefly 16 G9 2023 WUXGA Workstation Laptop,66240,69.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,16,1TB,4GB NVIDIA RTX NVIDIA T550,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ZBook Firefly 16 G9 2023 Laptop,66240,61.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xᵉ Graphics,16 inches, 1920 x 1200 pixels,Windows 11 OS
+HP Chromebook 15a-nb0002TU Laptop,66240,,Intel Core i3 N305,8 Threads</li,,8 ,256GB,Intel Integrated UHD Graphics,15.6 inches, 1366 x 768 pixels,Chrome OS
+HP ZBook Studio G9 WUXGA 16 Workstation Laptop,66240,,12th Gen Intel Core i9 12900H,14 Cores (6P + 8E),20,32,1TB,16GB NVIDIA GeForce RTX 3080 Ti ,16 inches,,Windows 11 OS
+HP ZBook Studio G9 2023 Workstation WQUXGA Laptop,66240,,12th Gen Intel Core i9 12900H,14 Cores (6P + 8E),20,32,1TB,12GB NVIDIA GeForce RTX 3080 Ti,16 inches, 3840 x 2400 pixels,Windows 11 OS
+HP Omen 16-wd0990TX Gaming Laptop,66240,69.0,13th Gen Intel Core i5 13420H,Octa Core (4P + 4E),12,16,512GB,6GB NVIDIA GeForce RTX 4050,16.1 inches, 2560 x 1440 pixels,Windows 11 OS
+HP Envy x360 15-ew0041TU Laptop,66240,68.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion Plus ‎14-eh1047TU Laptop,66240,66.0,13th Gen Intel Core i7 13700H,14 Cores (6P + 8E),20,16,512GB,Intel Integrated Iris Xe,14 inches, 2880 x 1800 pixels,Windows 11 OS
+HP Envy x360 15-fh0016AU Laptop,66240,63.0,7th Gen AMD Ryzen 5 7530U,Hexa Core,12,16,512GB,AMD Radeon AMD,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+‎HP Zbook Power G4-A ZHAN 99 2023 Laptop,66240,70.0,6th Gen AMD Ryzen 5 6600H,Hexa Core,12,32,1TB,4GB ‎NVIDIA Quadro T600,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Envy 15-fe0032TU Laptop,66240,65.0,13th Gen Intel Core i7 1355U,10 Cores (2P + 8E),12,16,1TB,Intel Iris X Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 240 14 G9 769K8PA Laptop,66240,60.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,512GB,Intel Iris Xe Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+‎HP Zbook Power G4-A ZHAN 99 Laptop,66240,74.0,6th Gen AMD Ryzen 7 6800H,Octa Core,16,32,1TB,4GB ‎NVIDIA Quadro T600,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 240 G9 Laptop,66240,50.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,512GB,Intel Integrated,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP 250 G9 701H5PA Laptop,66240,62.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 14-dv1043TU Laptop,66240,57.0,11th Gen Intel Core i5 1155G7,Quad Core,8,8 ,512GB,Intel Integrated Iris Xe,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 240 G9 7M433PA Notebook Laptop,66240,63.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 16 16-d0309TX Laptop,66240,65.0,11th Gen Intel Core i5 11400H ,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce GTX 1650 ,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 16 16-d0309TX Laptop,66240,65.0,11th Gen Intel Core i5 11400H ,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce GTX 1650 ,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 16-d0302TX Gaming Laptop,66240,65.0,11th Gen Intel Core i5 11400H ,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce GTX 1650,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb0137AX Gaming Laptop,66240,63.0,5th Gen AMD Ryzen 7 5800H,Octa Core,16,16,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb0131AX Gaming Laptop,66240,61.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,8 ,512GB,4GB AMD Radeon RX 5600M ,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb0135AX Gaming Laptop,66240,60.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion x360 14-ek1020TU Laptop,66240,65.0,13th Gen Intel Core i7 1355U ,10 Cores (2P + 8E),12,16,512GB,Intel Integrated Iris Xe,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Elite Dragonfly G3 6Y036PA Laptop,66240,72.0,12th Gen Intel Core i7 1265U,10 Cores (2P + 8E),12,32,1TB,Intel Iris Xe Graphics,13.5 inches, 1280 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa0092TX Gaming Laptop,66240,61.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,16,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 247 G8 796Y6PA Laptop,66240,,3rd Gen AMD Athlon Silver 3050U,Dual Core,2,4 ,256GB,AMD Radeon graphics,14 inches, 1366 x 768 pixels,DOS OS
+HP ProBook 440 G9 6J8T1PA Laptop,66240,69.0,12th Gen Intel Core i7 1255U ,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb0122AX Gaming Laptop,66240,63.0,5th Gen AMD Ryzen 5  5600H ,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce GTX 1650,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Elitebook 840 G8 6E323PA Laptop,66240,64.0,11th Gen Intel Core i7 1165G7,Quad Core,8,16,512GB,Intel Iris Xe,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP ProBook 440 G9 6K3L6PA Laptop,66240,63.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP ProBook 445 G8 7J405PA Laptop,66240,63.0,5th Gen AMD Ryzen 7 5800U,Octa Core,16,8 ,512GB,AMD Radeon,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP Spectre x360 16-f2002TU Laptop,66240,74.0,13th Gen Intel Core i7 13700H,14 Cores (6P + 8E),20,16,1TB,Intel UHD Graphics,16 inches, 3072 x 1920 pixels,Windows 11 OS
+HP 247 G8 Laptop,66240,,3rd Gen AMD Ryzen 3 3250U,Dual Core,4,8 ,512GB,AMD Radeon Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP Spectre x360 14-ef0072TU Laptop,66240,72.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,16,512GB,Intel Iris X Graphics,13.5 inches, 3000 x 2000 pixels,Windows 11 OS
+HP Pavilion 15s-fq5013nia Laptop,66240,55.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,512GB,Intel Iris Xᵉ Graphics,15.6 inches, 1366 x 768 pixels,Windows 11 OS
+HP 247 G8 ‎796Z3PA Laptop,66240,,3rd Gen AMD Ryzen 3 3250U,Dual Core,4,8 ,512GB,AMD Radeon Graphics,14 inches, 1366 x 768 pixels,DOS OS
+HP Spectre x360 14-ef0075TU Laptop,66240,72.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,16,1TB,Intel Iris Xe Graphics,13.5 inches, 3000 x 2000 pixels,Windows 11 OS
+HP ProBook 445 G8 Business Laptop,66240,63.0,5th Gen AMD Ryzen 7 5800U,Octa Core,16,8 ,512GB,AMD Radeon,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14s-dr5016TU Laptop,66240,59.0,12th Gen Intel Core i5 1240P,12 Cores (4P + 8E),16,8 ,1TB,Intel Iris Xe Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Chromebook 15a-na0008TU Laptop,66240,,Intel Celeron  N4500,Dual Core,2,4 ,128GB,Intel Integrated UHD Graphics,15.6 inches, 1366 x 768 pixels,Chrome OS
+HP ZBook Firefly 15 G8 381M7PA Laptop,66240,56.0,11th Gen Intel Core i7 1165G7,Quad Core,8,16,512GB,Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Envy x360 13-bf0018TU Laptop,66240,57.0,12th Gen Intel Core i5 1230U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe,13.3 inches, 1920 x 1200 pixels,Windows 11 OS
+HP ‎15-ef2127wm Laptop,66240,63.0,5th Gen AMD Ryzen 5  5500U,Hexa Core,12,16,512GB,AMD Radeon Graphics,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Omen 17-ck2004TX Gaming Laptop,66240,,13th Gen Intel Core i9 13900HX,24 Cores (8P + 16E),32,32,1TB,12GB NVIDIA GeForce 4080,17.3 inches, 2560 x 1440 pixels,Windows 11  OS
+HP Envy x360 15-ew0022TX Laptop,66240,70.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,16,1TB,Intel Iris X Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb0888AX Gaming Laptop,66240,61.0,5th Gen AMD Ryzen 5 5600H,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce GTX 1650,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fb0107AX Gaming Laptop,66240,65.0,5th Gen AMD Ryzen 7 5800H,Octa Core,16,16,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 14s-dq5007tu Laptop,66240,59.0,12th Gen Intel Core i5 1240P,12 Cores (4P + 8E),16,8 ,512GB,Intel Integrated Iris Xe,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-du3595TU Laptop,66240,53.0,11th Gen Intel Core i3 1125G4 ,Quad Core,8,8 ,256GB,Intel UHD Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 15s-eq2146AU Laptop,66240,54.0,5th Gen AMD Ryzen 3 5300U,Quad Core,8,8 ,256GB,AMD Radeon Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 245 G8 Laptop,66240,,3rd Gen AMD Athlon  3050U,Dual Core,2,8 ,1TB,AMD Radeon Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP Omen 16-n0091AX Gaming Laptop,66240,65.0,6th Gen AMD Ryzen 7  6800H,Octa Core,16,16,512GB,4GB NVIDIA GeForce RTX 3050Ti,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 16-e0333TX Gaming Laptop,66240,66.0,5th Gen AMD Ryzen 5  5600H ,Hexa Core,12,16,512GB,6GB NVIDIA GeForce RTX3060,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Envy x360 15-ew0037TU Laptop,66240,65.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,512GB,Intel Integrated Iris Xe,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Envy x360 15-ew0043TU 2-in-1 Laptop,66240,68.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP ProBook 445 G8 Laptop,66240,66.0,5th Gen AMD Ryzen 7 5800U,Octa Core,16,16,512GB,AMD Radeon,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP 15s-du3612TU Laptop,66240,59.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,1TB,256GB SSD,Intel Integrated UHD,,"15.6 inches, 1920 x 1080 pixels"
+HP 245 G8 ‎6E3Z1PA Laptop,66240,,3rd Gen AMD Ryzen 3  3250U,Dual Core,4,8 ,512GB,AMD Radeon Graphics,14 inches, 1366 x 768 pixels,DOS OS
+HP Envy x360 15-ew0040TU Laptop,66240,64.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Integrated Iris Xe,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Envy x360 15-ew0048TU Laptop,66240,70.0,12th Gen Intel Core i7 1255U,10 Cores (2P + 8E),12,16,1TB,Intel Integrated Iris Xe,15.6 inches, 2880 x 1800 pixels,Windows 11 OS
+HP Pavilion 14-ec1005AU Laptop,66240,61.0,12th Gen Intel Core i5 1240P,12 Cores (4P + 8E),16,16,512GB,Intel Iris Xe Graphics,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Pavilion 14-ec1005AU Laptop,66240,56.0,5th Gen AMD Ryzen 5 5625U ,Hexa Core,12,16,512GB,AMD Radeon Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Envy x360 13-ay1064AU 2-in-1 Laptop,66240,64.0,5th Gen AMD Ryzen 7  5800U,Octa Core,16,16,512GB,AMD Radeon Graphic,13.3 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 247 G8 600A9PA Laptop,66240,55.0,5th Gen AMD Ryzen 3  5300U,Quad Core,8,8 ,512GB,AMD Radeon Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP 255 G8 Business Laptop,66240,,3rd Gen AMD Athlon  3050U,Dual Core,2,8 ,1TB,AMD Radeon Graphics,15.6 inches, 1366 x 768 pixels,Windows 11 OS
+HP 240 G8 Business Laptop,66240,50.0,11th Gen Intel Core i5 1135G7 ,Quad Core,8,8 ,512GB,Intel Integrated,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP Victus 15-fa0031dx Gaming Laptop,66240,61.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,8 ,512GB,4GB NVIDIA GeForce GTX 1650,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 240 G8 Business Laptop,66240,,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,512GB,Intel Integrated,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP ZBook Firefly G8 500P0PA Business Laptop,66240,65.0,11th Gen Intel Core i5 1135G7,Quad Core,8,16,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Victus 16-e0550AX Gaming Laptop,66240,62.0,5th Gen AMD Ryzen 7 5800H ,Octa Core,16,8 ,512GB,4GB AMD Radeon RX 5500M Graphics,16 inches, 1920 x 1080 pixels,Windows 11 OS
+HP ProBook 445 G7 Laptop,66240,60.0,4th Gen AMD Ryzen 5  4500U,Hexa Core,6,8 ,512GB,AMD Radeon,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 245 G8 3A8N7PA Laptop,66240,,3rd Gen AMD Athlon  3050u,Dual Core,2,4 ,1TB,NA AMD Radeon Graphics,14 inches, 1366 x 768 pixels,Windows 10 OS
+HP 245 G8 366C8PA Laptop,66240,,AMD Ryzen 3,Quad Core</li,,8 ,1TB,AMD Radeon Graphics,14 inches, 1366 x 768 pixels,Windows 10 OS
+HP 245 G8 62G68PA Laptop,66240,53.0,3rd Gen AMD Ryzen 3  3250U,Dual Core,4,8 ,1TB,AMD Radeon Graphics,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14s-fq0567AU Laptop,66240,,3rd Gen AMD Ryzen 3  3250U,Dual Core,4,8 ,256GB,AMD Radeon AMD,14 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Omen 16-n0051AX Gaming Laptop,66240,78.0,6th Gen AMD Ryzen 9 6900HX,Octa Core,16,32,1TB,8GB AMD Radeon RX 6650M Graphics,16.1 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Victus 15-fa0092TX Laptop,66240,61.0,12th Gen Intel Core i5 12450H,Octa Core (4P + 4E),12,16,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP ZBook FireFly15 G8 400D3PA Business Laptop,66240,62.0,11th Gen Intel Core i5 1135G7,Quad Core,8,16,512GB,Intel Integrated,15.6 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Omen 16-n0050AX Gaming Laptop,66240,63.0,6th Gen AMD Ryzen 7  6800H,Octa Core,16,16,512GB,4GB NVIDIA GeForce RTX 3050,16 inches, 1920 x 1080 pixels,Windows 11 OS
+HP Envy x360 13-bf0062TU Laptop,66240,63.0,12th Gen Intel Core i7 1250U,10 Cores,12,16,512GB,Intel Iris Xe Graphics,13.3 inches, 2880 x 1800 pixels,Windows 11 OS
+HP ProBook 450 G8 4Y7G3PA Laptop,66240,57.0,11th Gen Intel Core i3 1115G4,Dual Core,4,8 ,256GB,Intel UHD Graphics,15.6 inches, 1366 x 768 pixels,Windows 10 OS
+HP Omen 16-C0136AX Laptop,66240,64.0,5th Gen AMD Ryzen 5  5600H,Hexa Core,12,8 ,512GB,4GB NVIDIA GeForce GTX 1650,16.1 inches, 1920 x 1080 pixels,Windows 10 OS
+HP Envy x360 16-h0028TX Laptop,66240,65.0,12th Gen Intel Core i7 1250U,10 Cores,12,16,512GB,Intel Iris X Graphics,13.3 inches, 3840 x 2400 pixels,Windows 11 OS
+HP Envy 16-h0026tx Laptop,66240,77.0,12th Gen Intel Core i9 12900H ,14 Cores,20,32,2TB,6GB NVIDIA GeForce RTX 3060,15.6 inches, 3840 x 2160 pixels,Windows 11  OS
+HP Envy 16-h0025tx Laptop,66240,75.0,12th Gen Intel Core i9 12900H ,14 Cores,20,16,1TB,6GB NVIDIA GeForce RTX 3060,16 inches, 3840 x 2160 pixels,Windows 11  OS
+HP 14q-cs0018tu Laptop,66240,,Intel Pentium 4417U 4417U,Dual Core,4,4 ,256GB,Intel HD 610,14 inches, 1366 x 768 pixels,Windows 10 OS
+HP 430 G8 366B1PA Business Laptop,66240,,Processor: Intel Core i7-1165G7 (up to 4.7 GHz with Intel Turbo Boost Technology,Memory &amp; Storage: 8 GB DDR4-3200 MHz RAM (1 x 8GB)</li,,St,Display:,Graphics &amp; Networking: Intel Iris X Graphics,Intel AX201 Wi-Fi 6 (2x2) and Bluetooth 5 combo,,Ports: 2 SuperSpeed USB Type-A 5Gbps signaling rate (1 charging
+HP Victus 15-fb0052AX Gaming Laptop,66240,66.0,5th Gen AMD Ryzen 7 5800H ,Octa Core,16,8 ,512GB,4GB NVIDIA GeForce RTX 3050,15.6 inches, 1920 x 1080 pixels,Windows 11 OS
+HP 14s-dr3001TU Laptop,66240,,Intel Pentium Silver N6000,Quad Core,4,8 ,256GB,Intel UHD Graphics,14 inches, 1366 x 768 pixels,Windows 11 OS
+HP EliteBook x360 1030 G8 3Y008PA Notebook,66240,60.0,11th Gen Intel Core i7 1165G7 ,Quad Core,8,16,512GB,Intel Iris Xe Graphics,13.3 inches, 3840 x 2160 pixels,Windows 10 OS
+HP Chromebook 14a-na1005TU Laptop,66240,,Intel Celeron  N4020,Dual Core,2,4 ,64GB,Intel Integrated UHD Graphics,14 inches, 1366 x 768 pixels,Chrome OS
+HP 255 G8 R3 Laptop,66240,,3rd Gen AMD Ryzen 3  3300U,Quad Core</li,,8 ,256GB,"15.6inches, 1920x1080pixels",Windows 11 OS,,
+HP Spectre x360 13-ef0057TU Laptop,66240,66.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,16,512GB,Intel Iris X Graphics,13.5 inches, 1920 x 1280 pixels,Windows 11 OS
+HP Spectre x360 16-f1009TX Laptop,66240,74.0,12th Gen Intel Core i7 1260P,12 Cores (4P + 8E),16,16,1TB,4GB Intel Arc A370M 4GB VRAM Graphics,16 inches, 3840 x 2400 pixels,Windows 11 OS
+HP Spectre x360 13-ef0052TU OLED Laptop,66240,63.0,12th Gen Intel Core i5 1235U,10 Cores (2P + 8E),12,8 ,512GB,Intel Iris Xe Graphics,13.5 inches, 3000 x 2000 pixels,Windows 11 OS
+HP 250 G8 64Q91PA Laptop,66240,,11th Gen Intel Core i5 1135G7,Quad Core,8,8 ,1TB,Intel Integrated,15.6 inches, 1366 x 768 pixels,Windows 11 OS
+HP Envy x360 13-bf0059TU Laptop,66240,63.0,12th Gen Intel Core i7 1250U,10 Cores,12,16,512GB,Intel Iris X Graphics,13.3 inches, 2880 x 1800 pixels,Windows 11 OS

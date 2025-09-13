@@ -1,0 +1,1 @@
+[{"name": "Aditya", "village": "Gahira"}, {"name": "Alex", "village": "Aus"}, {"name": "Nirma", "village": "bihar"}, {"name": "modi", "village": "gujrat"}, {"name": "mamta", "village": "bangal"}, {"name": "naturi", "village": "gorakhpur"}, {"name": "kariki", "village": "west indies"}]
