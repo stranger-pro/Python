@@ -1,8 +1,4 @@
 
-# Don't run
-# Don't run
-# Don't run
-
 import requests
 from bs4 import BeautifulSoup
 
